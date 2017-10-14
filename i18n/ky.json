@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chorobek",
+			"Growingup",
+			"Ztimur",
+			"Викиней",
+			"Janatkg"
+		]
+	},
+	"vectorx-action-addsection": "Тема кошуу",
+	"vectorx-action-delete": "Өчүрүү",
+	"vectorx-action-move": "Аталышын өзгөртүү",
+	"vectorx-action-protect": "Коргоо",
+	"vectorx-action-undelete": "Калыбына келтирүү",
+	"vectorx-action-unprotect": "Коргоону өзгөртүү",
+	"vectorx-view-create": "Түзүү",
+	"vectorx-view-edit": "Оңдоо",
+	"vectorx-view-history": "Тарыхын кароо",
+	"vectorx-view-view": "Окуу",
+	"vectorx-view-viewsource": "Кайнарын кароо",
+	"vectorx-more-actions": "Кененирээк"
+}

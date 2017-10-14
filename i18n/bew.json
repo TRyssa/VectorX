@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naval Scene"
+		]
+	},
+	"vectorx-action-delete": "Ngapus",
+	"vectorx-action-move": "Pindahin",
+	"vectorx-action-undelete": "Balikin nyang keapus",
+	"vectorx-view-create": "Bikin"
+}

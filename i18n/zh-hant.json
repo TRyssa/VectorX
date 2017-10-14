@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwlin0416",
+			"Justincheng12345",
+			"Liuxinyu970226",
+			"Mark85296341",
+			"LNDDYL"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "現代版的 MonoBook，有著較新穎的外觀與許多使用性的改進",
+	"vectorx.css": "/* 此 CSS 會影響使用 VectorX 介面外觀的使用者 */",
+	"vectorx.js": "/* 此 JavaScript 會用於使用 VectorX 介面外觀的使用者 */",
+	"vectorx-action-addsection": "新增話題",
+	"vectorx-action-delete": "刪除",
+	"vectorx-action-move": "移動",
+	"vectorx-action-protect": "保護",
+	"vectorx-action-undelete": "取消刪除",
+	"vectorx-action-unprotect": "變更保護",
+	"vectorx-view-create": "建立",
+	"vectorx-view-edit": "編輯",
+	"vectorx-view-history": "檢視歷史",
+	"vectorx-view-view": "閱讀",
+	"vectorx-view-viewsource": "檢視原始碼",
+	"vectorx-more-actions": "更多"
+}

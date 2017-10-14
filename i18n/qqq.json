@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Darth Kule",
+			"EugeneZelenko",
+			"Lloffiwr",
+			"Shirayuki",
+			"Umherirrender",
+			"Matma Rex",
+			"Liuxinyu970226",
+			"Raymond"
+		]
+	},
+	"skinname-vectorx": "{{optional}}",
+	"vectorx-skin-desc": "{{desc|what=skin|name=VectorX|url=https://www.mediawiki.org/wiki/Skin:VectorX}}",
+	"vectorx.css": "{{optional}}",
+	"vectorx.js": "{{optional}}",
+	"vectorx-action-addsection": "Used in the VectorX skin. See for example {{canonicalurl:Talk:Main_Page|useskin=vectorx}}\n{{Identical|Add topic}}",
+	"vectorx-action-delete": "Used in the VectorX skin, as the name of a tab at the top of the page. See for example {{canonicalurl:Main_Page|useskin=vectorx}}\n\n{{Identical|Delete}}",
+	"vectorx-action-move": "Used in the VectorX skin, on the tabs at the top of the page. See for example {{canonicalurl:Talk:Main_Page|useskin=vectorx}}\n\n{{Identical|Move}}",
+	"vectorx-action-protect": "Tab at top of page, in vectorx skin\n\n{{Identical|Protect}}",
+	"vectorx-action-undelete": "Tab at top of page, in vectorx skin.\n{{Identical|Undelete}}",
+	"vectorx-action-unprotect": "Tab at top of page, in vectorx skin.\n{{Identical|Change protection}}",
+	"vectorx-view-create": "Tab label in the VectorX skin. See for example {{canonicalurl:Foo|useskin=vectorx}}\n{{Identical|Create}}",
+	"vectorx-view-edit": "Tab label in the VectorX skin. See for example {{canonicalurl:Main_Page|useskin=vectorx}}\n{{Identical|Edit}}",
+	"vectorx-view-history": "Tab label in the VectorX skin. See for example {{canonicalurl:Main_Page|useskin=vectorx}}\n{{Identical|View history}}",
+	"vectorx-view-view": "Tab label in the VectorX skin (verb). See for example {{canonicalurl:Main_Page|useskin=vectorx}}.\n{{Identical|Read}}",
+	"vectorx-view-viewsource": "Tab label in the VectorX skin.\n{{Identical|View source}}",
+	"vectorx-more-actions": "Label in the VectorX skin's menu for the less-important or rarer actions which are not shown as tabs (like moving the page, or for sysops deleting or protecting the page), as well as (for users with a narrow viewing window in their browser) the less-important tab actions which the user's browser is unable to fit in. {{Identical|More}}"
+}

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya",
+			"Bennylin",
+			"Farras",
+			"Iwan Novirion",
+			"Rex"
+		]
+	},
+	"skinname-vectorx": "Vektor",
+	"vectorx-skin-desc": "Versi modern dari MonoBook dengan tampilan segar dan banyak perbaikan kegunaan",
+	"vectorx.css": "/* CSS yang ada di sini akan diterapkan pada kulit Vektor. */",
+	"vectorx.js": "/* Semua JavaScript di sini akan dimuatkan untuk para pengguna yang menggunakan kulit VectorX */",
+	"vectorx-action-addsection": "Bagian baru",
+	"vectorx-action-delete": "Hapus",
+	"vectorx-action-move": "Pindahkan",
+	"vectorx-action-protect": "Lindungi",
+	"vectorx-action-undelete": "Pembatalan penghapusan",
+	"vectorx-action-unprotect": "Ubah perlindungan",
+	"vectorx-view-create": "Buat",
+	"vectorx-view-edit": "Sunting",
+	"vectorx-view-history": "Versi terdahulu",
+	"vectorx-view-view": "Baca",
+	"vectorx-view-viewsource": "Lihat sumber",
+	"vectorx-more-actions": "Lainnya"
+}

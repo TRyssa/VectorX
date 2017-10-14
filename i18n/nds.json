@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Slomox",
+			"Zylbath",
+			"Servien"
+		]
+	},
+	"vectorx-action-addsection": "Thema tofögen",
+	"vectorx-action-delete": "Wegdoon",
+	"vectorx-action-move": "Schuven",
+	"vectorx-action-protect": "Schulen",
+	"vectorx-action-undelete": "Wedderhalen",
+	"vectorx-action-unprotect": "Siedenschuul ännern",
+	"vectorx-view-create": "Opstellen",
+	"vectorx-view-edit": "Ännern",
+	"vectorx-view-history": "Historie bekieken",
+	"vectorx-view-view": "Lesen",
+	"vectorx-view-viewsource": "Borntext bekieken",
+	"vectorx-more-actions": "Mehr"
+}

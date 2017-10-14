@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Unai Fdz. de Betoño",
+			"Xabier Armendaritz",
+			"Fitoschido",
+			"Subi"
+		]
+	},
+	"vectorx-skin-desc": "MonoBook-en bertsio modernoa, itxura berriarekin eta erabilgarritasun hobekuntza askorekin",
+	"vectorx-action-addsection": "Gehitu atala",
+	"vectorx-action-delete": "Ezabatu",
+	"vectorx-action-move": "Mugitu",
+	"vectorx-action-protect": "Babestu",
+	"vectorx-action-undelete": "Berreskuratu",
+	"vectorx-action-unprotect": "Babesa aldatu",
+	"vectorx-view-create": "Sortu",
+	"vectorx-view-edit": "Aldatu",
+	"vectorx-view-history": "Ikusi historia",
+	"vectorx-view-view": "Irakurri",
+	"vectorx-view-viewsource": "Kodea ikusia",
+	"vectorx-more-actions": "Gehiago"
+}

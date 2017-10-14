@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"RMizo"
+		]
+	},
+	"vectorx-action-addsection": "Thupui belhna",
+	"vectorx-action-delete": "Paihna",
+	"vectorx-action-move": "Sawnna",
+	"vectorx-action-protect": "Venhimna",
+	"vectorx-action-undelete": "Lak kir lehna",
+	"vectorx-action-unprotect": "Venhimna dinhmun tidanglam rawh",
+	"vectorx-view-create": "Siamna",
+	"vectorx-view-edit": "Siamţhatna",
+	"vectorx-view-history": "Hunhlui-chanchin",
+	"vectorx-view-view": "Chhiarna",
+	"vectorx-view-viewsource": "A hnar enna"
+}

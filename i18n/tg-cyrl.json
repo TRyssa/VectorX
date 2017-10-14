@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ibrahim"
+		]
+	},
+	"vectorx-action-addsection": "Иловаи унвон",
+	"vectorx-action-delete": "Ҳазф",
+	"vectorx-action-move": "Кӯчонидан",
+	"vectorx-action-protect": "Муҳофизат",
+	"vectorx-action-undelete": "Эҳё",
+	"vectorx-action-unprotect": "Тағйири муҳофизат",
+	"vectorx-view-create": "Эҷод",
+	"vectorx-view-edit": "Вироиш",
+	"vectorx-view-history": "Намоиши таърих",
+	"vectorx-view-view": "Хондан",
+	"vectorx-view-viewsource": "Намоиши манбаъ",
+	"vectorx-more-actions": "Бештар"
+}

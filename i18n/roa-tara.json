@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"skinname-vectorx": "Vettore",
+	"vectorx-skin-desc": "Versione moderne de MonoBook cu 'nu sguarde aggiornate e 'nu sbuènne de miglioramende sus a l'ausabbilità",
+	"vectorx.css": "/* 'U CSS ca se iacchie aqquà 'u 'ndrucane le utinde d'a masckere Vettore */",
+	"vectorx.js": "/* Ogne JavaScript aqquà avène carecate pe le utinde ca ausane 'a masckere Vettore */",
+	"vectorx-action-addsection": "Aggiunge 'na discussiona",
+	"vectorx-action-delete": "Scangille",
+	"vectorx-action-move": "Spuèste",
+	"vectorx-action-protect": "Protegge",
+	"vectorx-action-undelete": "Repristine",
+	"vectorx-action-unprotect": "Cange 'a protezione",
+	"vectorx-view-create": "Ccreje",
+	"vectorx-view-edit": "Cange",
+	"vectorx-view-history": "Vide 'u cunde",
+	"vectorx-view-view": "Ligge",
+	"vectorx-view-viewsource": "Vide 'u sorgende",
+	"vectorx-more-actions": "De cchiù"
+}

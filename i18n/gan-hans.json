@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent",
+			"Xiaomingyan"
+		]
+	},
+	"vectorx-action-addsection": "添主题",
+	"vectorx-action-delete": "删吥",
+	"vectorx-action-move": "移吥",
+	"vectorx-action-protect": "护到",
+	"vectorx-action-undelete": "望下删吥𠮶页面",
+	"vectorx-action-unprotect": "更改保护",
+	"vectorx-view-create": "创建",
+	"vectorx-view-edit": "编辑",
+	"vectorx-view-history": "望下历史",
+	"vectorx-view-view": "读",
+	"vectorx-view-viewsource": "望下原始码"
+}

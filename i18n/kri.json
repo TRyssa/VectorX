@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Protostar"
+		]
+	},
+	"vectorx-action-addsection": "Add tòpik",
+	"vectorx-action-delete": "Delet",
+	"vectorx-action-move": "Muf",
+	"vectorx-action-protect": "Protèkt",
+	"vectorx-view-create": "Kreat",
+	"vectorx-view-edit": "Chenj",
+	"vectorx-view-history": "Luk historia",
+	"vectorx-view-view": "Rid",
+	"vectorx-view-viewsource": "Luk dhi sòrs",
+	"vectorx-more-actions": "Mòr"
+}

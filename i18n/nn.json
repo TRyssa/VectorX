@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gunnernett",
+			"Njardarlogar"
+		]
+	},
+	"vectorx-action-addsection": "Nytt emne",
+	"vectorx-action-delete": "Slett",
+	"vectorx-action-move": "Flytt",
+	"vectorx-action-protect": "Vern",
+	"vectorx-action-undelete": "Gjenopprett",
+	"vectorx-action-unprotect": "Endra vern",
+	"vectorx-view-create": "Opprett",
+	"vectorx-view-edit": "Endre",
+	"vectorx-view-history": "Sjå historikken",
+	"vectorx-view-view": "Les",
+	"vectorx-view-viewsource": "Sjå kjelda",
+	"vectorx-more-actions": "Meir"
+}

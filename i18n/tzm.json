@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Moha",
+			"Tifinaghes",
+			"ⵕⴰⵊⵉ"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"vectorx-action-delete": "ⵓⴽⵓⵙ",
+	"vectorx-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"vectorx-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"vectorx-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"vectorx-view-create": "ⴰⵔⴰ",
+	"vectorx-view-edit": "ⴱⴷⴷⴻⵍ",
+	"vectorx-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"vectorx-view-view": "ⵖⵔ",
+	"vectorx-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"vectorx-more-actions": "ⵓⴳⴳⴰⵔ"
+}

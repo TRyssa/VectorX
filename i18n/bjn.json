@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ezagren",
+			"J Subhi"
+		]
+	},
+	"vectorx-action-addsection": "Tambahi tupik",
+	"vectorx-action-delete": "Hapus",
+	"vectorx-action-move": "Pindahakan",
+	"vectorx-action-protect": "Lindungi",
+	"vectorx-action-undelete": "Pawalangan pahapusan",
+	"vectorx-action-unprotect": "Palindungan",
+	"vectorx-view-create": "Ulah",
+	"vectorx-view-edit": "Babak",
+	"vectorx-view-history": "Tiringi halam",
+	"vectorx-view-view": "Baca",
+	"vectorx-view-viewsource": "Tiringi asal mula"
+}

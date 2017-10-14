@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mayooranathan",
+			"Shanmugamp7",
+			"Surya Prakash.S.A.",
+			"TRYPPN",
+			"Jayarathina",
+			"Kaartic",
+			"ElangoRamanujam",
+			"Kanags"
+		]
+	},
+	"vectorx-action-addsection": "தலைப்பைச் சேர்",
+	"vectorx-action-delete": "நீக்குக",
+	"vectorx-action-move": "நகர்த்தவும்",
+	"vectorx-action-protect": "காக்கவும்",
+	"vectorx-action-undelete": "நீக்கத்தை நிறுத்து",
+	"vectorx-action-unprotect": "காப்பை மாற்று",
+	"vectorx-view-create": "உருவாக்கவும்",
+	"vectorx-view-edit": "தொகு",
+	"vectorx-view-history": "வரலாற்றைக் காட்டவும்",
+	"vectorx-view-view": "படிக்கவும்",
+	"vectorx-view-viewsource": "மூலத்தைக் காட்டவும்",
+	"vectorx-more-actions": "மேலும்"
+}

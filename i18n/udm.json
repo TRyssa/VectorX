@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andrewboltachev",
+			"Kaganer",
+			"Wadorgurt"
+		]
+	},
+	"vectorx-action-addsection": "Выль темаез ватсано",
+	"vectorx-action-delete": "Быдтоно",
+	"vectorx-action-move": "Нимзэ воштыны",
+	"vectorx-action-protect": "Утьыны",
+	"vectorx-view-create": "Кылдытоно",
+	"vectorx-view-edit": "Тупатоно",
+	"vectorx-view-history": "История",
+	"vectorx-view-view": "Лыдӟоно",
+	"vectorx-view-viewsource": "Кодзэ учкыны",
+	"vectorx-more-actions": "Эшшо"
+}

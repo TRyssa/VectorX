@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174",
+			"Pyt"
+		]
+	},
+	"vectorx-skin-desc": "Modern werjuun faan Monobook mä frisk skak an föl muar mögelkhaiden",
+	"vectorx-action-addsection": "Nei kirew began",
+	"vectorx-action-delete": "Strik",
+	"vectorx-action-move": "Fersküüw",
+	"vectorx-action-protect": "Seekre",
+	"vectorx-action-undelete": "Weder iinstel",
+	"vectorx-action-unprotect": "Sidjenseekerhaid",
+	"vectorx-view-create": "Maage",
+	"vectorx-view-edit": "Bewerke",
+	"vectorx-view-history": "Ferluup uunluke",
+	"vectorx-view-view": "Lees",
+	"vectorx-view-viewsource": "Kweltekst uunluke",
+	"vectorx-more-actions": "Muar"
+}

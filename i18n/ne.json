@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bhawani Gautam",
+			"RajeshPandey",
+			"सरोज कुमार ढकाल",
+			"बिप्लब आनन्द",
+			"राम प्रसाद जोशी"
+		]
+	},
+	"skinname-vectorx": "भेक्टर",
+	"vectorx.css": "/* यहाँ राखिएको CSS ले भेक्टर स्किनको प्रयोगकर्ताहरूलाई प्रभावित गर्ने छ  */",
+	"vectorx-action-addsection": "विषय थप्नुहोस",
+	"vectorx-action-delete": "हटाउने",
+	"vectorx-action-move": "सार्ने",
+	"vectorx-action-protect": "सुरक्षित गर्ने",
+	"vectorx-action-undelete": "हटाएको रद्द गर्ने",
+	"vectorx-action-unprotect": "सुरक्षा परिवर्तन गर्ने",
+	"vectorx-view-create": "सृजना गर्ने",
+	"vectorx-view-edit": "सम्पादन",
+	"vectorx-view-history": "इतिहास हेर्ने",
+	"vectorx-view-view": "पढ्ने",
+	"vectorx-view-viewsource": "स्रोत हेर्ने",
+	"vectorx-more-actions": "थप"
+}

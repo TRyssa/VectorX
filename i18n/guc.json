@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maor X"
+		]
+	},
+	"vectorx-action-delete": "Ojuichajaa",
+	"vectorx-action-move": "Ansülaa",
+	"vectorx-action-protect": "Eisalajaa",
+	"vectorx-view-create": "Akumajaa",
+	"vectorx-view-edit": "Anaataa",
+	"vectorx-view-history": "Achikii a'wanajaayamaajatü",
+	"vectorx-view-view": "Aashaje'eraa",
+	"vectorx-view-viewsource": "Anüliaa eejeetülee"
+}

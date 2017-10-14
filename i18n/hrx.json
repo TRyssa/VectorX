@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paul Beppler",
+			"Midnight Gambler"
+		]
+	},
+	"vectorx-action-addsection": "Abschnitt hinzufüche",
+	"vectorx-action-delete": "Lösche",
+	"vectorx-action-move": "Verschiebe",
+	"vectorx-action-protect": "Schütz",
+	"vectorx-action-undelete": "Wiederherstelle",
+	"vectorx-action-unprotect": "Seiteschutz ännre",
+	"vectorx-view-create": "Erstell",
+	"vectorx-view-edit": "Beoorbeite",
+	"vectorx-view-history": "Versionsgeschicht",
+	"vectorx-view-view": "Lese",
+	"vectorx-view-viewsource": "Quelltext oonzeiche",
+	"vectorx-more-actions": "Meahr"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Universal Life"
+		]
+	},
+	"vectorx-action-addsection": "Ajustar sujeto",
+	"vectorx-action-delete": "Efassar",
+	"vectorx-action-move": "Taşirear",
+	"vectorx-action-protect": "Guadrar",
+	"vectorx-action-undelete": "Traer atrás",
+	"vectorx-action-unprotect": "Trocar proteksyon",
+	"vectorx-view-create": "Criar",
+	"vectorx-view-edit": "Trocar",
+	"vectorx-view-history": "Ver la istoria",
+	"vectorx-view-view": "Meldar",
+	"vectorx-view-viewsource": "Ver su manadero",
+	"vectorx-more-actions": "Mas"
+}

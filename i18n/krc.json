@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iltever",
+			"Къарачайлы",
+			"Ernác"
+		]
+	},
+	"skinname-vectorx": "Вектор",
+	"vectorx-action-addsection": "Джангы тема къош",
+	"vectorx-action-delete": "Кетер",
+	"vectorx-action-move": "Атын ауушдур",
+	"vectorx-action-protect": "Джакъла",
+	"vectorx-action-undelete": "Къайтар",
+	"vectorx-action-unprotect": "Джакълауну тюрлендир",
+	"vectorx-view-create": "Къура",
+	"vectorx-view-edit": "Тюрлендир",
+	"vectorx-view-history": "Тарихи",
+	"vectorx-view-view": "Окъу",
+	"vectorx-view-viewsource": "Кодха къара",
+	"vectorx-more-actions": "Энтда"
+}

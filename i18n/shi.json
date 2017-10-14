@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dalinanir"
+		]
+	},
+	"vectorx-action-addsection": "Zayd amli",
+	"vectorx-action-delete": "Ḥiyd",
+	"vectorx-action-move": "Smmatti",
+	"vectorx-action-protect": "Ḥbu",
+	"vectorx-action-undelete": "Rard may mayḥiydn",
+	"vectorx-action-unprotect": "Ḥiyd aḥbu",
+	"vectorx-view-create": "Skert",
+	"vectorx-view-edit": "Ara",
+	"vectorx-view-history": "Mel amzruy",
+	"vectorx-view-view": "ɣr",
+	"vectorx-view-viewsource": "Ẓr asagm"
+}

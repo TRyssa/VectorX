@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harvzsf",
+			"JinJian"
+		]
+	},
+	"vectorx-action-addsection": "Igdugang hin himangrawon",
+	"vectorx-action-delete": "Para-a",
+	"vectorx-action-move": "Balhina",
+	"vectorx-action-protect": "Panalipda",
+	"vectorx-action-undelete": "Igbalik an ginpara",
+	"vectorx-action-unprotect": "Liwani an panalipod",
+	"vectorx-view-create": "Himo-a",
+	"vectorx-view-edit": "Igliwat",
+	"vectorx-view-history": "Kitaa an kaagi",
+	"vectorx-view-view": "Basaha",
+	"vectorx-view-viewsource": "Kitaa an ginkuhaan",
+	"vectorx-more-actions": "Damo pa"
+}

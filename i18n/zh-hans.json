@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liangent",
+			"Liuxinyu970226",
+			"Xiaomingyan",
+			"Cwek"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "提供清新的外观和许多可用性改进的现代版MonoBook",
+	"vectorx.css": "/* 这里放置的CSS将影响使用VectorX皮肤的用户 */",
+	"vectorx.js": "/* 这里的任何JavaScript将为使用VectorX皮肤的用户加载 */",
+	"vectorx-action-addsection": "添加话题",
+	"vectorx-action-delete": "删除",
+	"vectorx-action-move": "移动",
+	"vectorx-action-protect": "保护",
+	"vectorx-action-undelete": "还原",
+	"vectorx-action-unprotect": "更改保护",
+	"vectorx-view-create": "创建",
+	"vectorx-view-edit": "编辑",
+	"vectorx-view-history": "查看历史",
+	"vectorx-view-view": "阅读",
+	"vectorx-view-viewsource": "查看源代码",
+	"vectorx-more-actions": "更多"
+}

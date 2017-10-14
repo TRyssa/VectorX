@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Klenje",
+			"Tocaibon"
+		]
+	},
+	"vectorx-action-addsection": "Gnove sezion",
+	"vectorx-action-delete": "Elimine",
+	"vectorx-action-move": "Môf",
+	"vectorx-action-protect": "Protêç",
+	"vectorx-action-undelete": "Recupere",
+	"vectorx-action-unprotect": "Gambie la protezion",
+	"vectorx-view-create": "Cree",
+	"vectorx-view-edit": "Cambie",
+	"vectorx-view-history": "Cjale il storic",
+	"vectorx-view-view": "Lei",
+	"vectorx-view-viewsource": "Cjale risultive",
+	"vectorx-more-actions": "Di plui"
+}

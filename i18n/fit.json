@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mestos"
+		]
+	},
+	"vectorx-action-addsection": "Lissää aine",
+	"vectorx-action-delete": "Ota poies",
+	"vectorx-action-move": "Siirä",
+	"vectorx-action-protect": "Suojaa",
+	"vectorx-action-undelete": "Pane takashiin",
+	"vectorx-action-unprotect": "Muuta suojaa",
+	"vectorx-view-create": "Luo",
+	"vectorx-view-edit": "Mookkaa",
+	"vectorx-view-history": "Näytä histuuria",
+	"vectorx-view-view": "Lue",
+	"vectorx-view-viewsource": "Näytä lähekooti"
+}

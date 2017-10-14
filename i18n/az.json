@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS",
+			"Arystanbek",
+			"Gulmammad",
+			"Sortilegus",
+			"Vago",
+			"Vugar 1981",
+			"Wertuose"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx.css": "/* Burada yerləşən CSS VectorX istifadəçilərinə tətbiq olunur */",
+	"vectorx.js": "/* Burada VectorX skin istifadəçiləri üçün istənilən JavaScript yüklənəcək */",
+	"vectorx-action-addsection": "Mövzu əlavə et",
+	"vectorx-action-delete": "Sil",
+	"vectorx-action-move": "Adını dəyişdir",
+	"vectorx-action-protect": "Mühafizə et",
+	"vectorx-action-undelete": "Bərpa et",
+	"vectorx-action-unprotect": "Mühafizəni kənarlaşdır",
+	"vectorx-view-create": "Yarat",
+	"vectorx-view-edit": "Redaktə",
+	"vectorx-view-history": "Tarixçəyə bax",
+	"vectorx-view-view": "Oxu",
+	"vectorx-view-viewsource": "Mənbəyə bax",
+	"vectorx-more-actions": "Daha"
+}

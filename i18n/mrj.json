@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amdf"
+		]
+	},
+	"vectorx-action-delete": "Карангдаш",
+	"vectorx-action-move": "Лӹмӹм вашталташ",
+	"vectorx-action-protect": "Ӹшӹклӓш",
+	"vectorx-view-create": "Ӹштӓш",
+	"vectorx-view-edit": "Тӧрлӹмӓш",
+	"vectorx-view-history": "Историм анжымаш",
+	"vectorx-view-view": "Лыдмаш",
+	"vectorx-view-viewsource": "Сек пӹтӓриш кодым анжалаш"
+}

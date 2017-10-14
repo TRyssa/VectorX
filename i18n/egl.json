@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lévi"
+		]
+	},
+	"vectorx-action-addsection": "Zûnta discusiòun",
+	"vectorx-action-delete": "Scanşèla",
+	"vectorx-action-move": "Spôsta",
+	"vectorx-action-protect": "Prutēz",
+	"vectorx-action-undelete": "Fà al recóper",
+	"vectorx-action-unprotect": "Câmbia la prutesiòun",
+	"vectorx-view-create": "Invèinta",
+	"vectorx-view-edit": "Mudéfica",
+	"vectorx-view-history": "Guêrda la stôria",
+	"vectorx-view-view": "Lēş",
+	"vectorx-view-viewsource": "Guêrda la surzéia",
+	"vectorx-more-actions": "Êter"
+}

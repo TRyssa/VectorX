@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Numulunj pilgae",
+			"Metsavend"
+		]
+	},
+	"vectorx-action-addsection": "Поладомс мезень колга корхтамс",
+	"vectorx-action-delete": "Нардамс",
+	"vectorx-action-move": "Шашфтомс",
+	"vectorx-action-protect": "Араламс",
+	"vectorx-action-undelete": "Мърдафтомс",
+	"vectorx-action-unprotect": "Араламать полафтомс",
+	"vectorx-view-create": "Тиемс",
+	"vectorx-view-edit": "Петнемс",
+	"vectorx-view-history": "История няфтемс",
+	"vectorx-view-view": "Морафтомс",
+	"vectorx-view-viewsource": "Лисьма няфтемс",
+	"vectorx-more-actions": "Сяда лама"
+}

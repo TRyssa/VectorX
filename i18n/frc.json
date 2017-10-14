@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebe123",
+			"Hangmanwa7id"
+		]
+	},
+	"vectorx-action-delete": "Supprimer",
+	"vectorx-action-move": "Renommer",
+	"vectorx-action-protect": "Protéger",
+	"vectorx-view-create": "Créer",
+	"vectorx-view-edit": "Changer",
+	"vectorx-view-view": "Lire",
+	"vectorx-view-viewsource": "Regarder la source",
+	"vectorx-more-actions": "Plus"
+}

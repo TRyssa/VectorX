@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro",
+			"Danvintius Bookix"
+		]
+	},
+	"vectorx-action-addsection": "Мевзу къош",
+	"vectorx-action-delete": "Ёкъ эт",
+	"vectorx-action-move": "Адыны денъиштир",
+	"vectorx-action-protect": "Къорчала",
+	"vectorx-action-undelete": "Янъыдан ярат",
+	"vectorx-action-unprotect": "Къорчалавны денъиштир",
+	"vectorx-view-create": "Ярат",
+	"vectorx-view-edit": "Денъиштир",
+	"vectorx-view-history": "Кечмишини косьтер",
+	"vectorx-view-view": "Окъу",
+	"vectorx-view-viewsource": "Менба кодуны косьтер",
+	"vectorx-more-actions": "Буюк"
+}

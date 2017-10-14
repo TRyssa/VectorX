@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	},
+	"vectorx-action-addsection": "Abschnidd dzufiesche",
+	"vectorx-action-delete": "Lesche",
+	"vectorx-action-move": "Vaschiewe",
+	"vectorx-action-protect": "Schidze",
+	"vectorx-action-undelete": "Zriggbringe",
+	"vectorx-view-create": "Oaleesche",
+	"vectorx-view-edit": "Droa schaffe",
+	"vectorx-view-history": "Dadaigschischd",
+	"vectorx-view-view": "Lese",
+	"vectorx-view-viewsource": "Gwelltegschd zaische",
+	"vectorx-more-actions": "Mea"
+}

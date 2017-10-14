@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu",
+			"Xuacu"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versión moderna de MonoBook, con un aspeutu frescu y munchos ameyoramientos d'usabilidá",
+	"vectorx.css": "/* Los CSS allugaos equí afeutarán a los usuarios del aspeutu VectorX */",
+	"vectorx.js": "/* Cualesquier JavaScript que tea equí se cargará pa los usuarios del aspeutu VectorX */",
+	"vectorx-action-addsection": "Amestar seición",
+	"vectorx-action-delete": "Desaniciar",
+	"vectorx-action-move": "Treslladar",
+	"vectorx-action-protect": "Protexer",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Camudar la proteición",
+	"vectorx-view-create": "Crear",
+	"vectorx-view-edit": "Editar",
+	"vectorx-view-history": "Ver historial",
+	"vectorx-view-view": "Lleer",
+	"vectorx-view-viewsource": "Ver fonte",
+	"vectorx-more-actions": "Más"
+}

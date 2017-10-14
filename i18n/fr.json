@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akeron",
+			"Crochet.david",
+			"DavidL",
+			"Gomoko",
+			"Jean-Frédéric",
+			"Od1n"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Version moderne de MonoBook avec un aspect rajeuni et beaucoup d’améliorations ergonomiques",
+	"vectorx.css": "/* Le CSS placé ici affectera les utilisateurs de l’habillage VectorX. */",
+	"vectorx.js": "/* Tout code JavaScript placé ici sera chargé pour les utilisateurs de l’habillage VectorX */",
+	"vectorx-action-addsection": "Ajouter un sujet",
+	"vectorx-action-delete": "Supprimer",
+	"vectorx-action-move": "Renommer",
+	"vectorx-action-protect": "Protéger",
+	"vectorx-action-undelete": "Rétablir",
+	"vectorx-action-unprotect": "Changer la protection",
+	"vectorx-view-create": "Créer",
+	"vectorx-view-edit": "Modifier",
+	"vectorx-view-history": "Historique",
+	"vectorx-view-view": "Lire",
+	"vectorx-view-viewsource": "Voir la source",
+	"vectorx-more-actions": "Plus"
+}

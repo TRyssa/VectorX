@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gastaz",
+			"Giromin Cangiaxo"
+		]
+	},
+	"vectorx-action-addsection": "Azónzi discusción",
+	"vectorx-action-delete": "Scancella",
+	"vectorx-action-move": "Mescia",
+	"vectorx-action-protect": "Protezi",
+	"vectorx-action-undelete": "Recuppera",
+	"vectorx-action-unprotect": "Cangia a proteçion",
+	"vectorx-view-create": "Crea",
+	"vectorx-view-edit": "Càngia",
+	"vectorx-view-history": "Amia a stoia",
+	"vectorx-view-view": "Lêzi",
+	"vectorx-view-viewsource": "Veddi a sorgénte",
+	"vectorx-more-actions": "De ciu"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ukabia"
+		]
+	},
+	"vectorx-action-addsection": "Tinyé Okwu",
+	"vectorx-action-delete": "Kàcha",
+	"vectorx-action-move": "Páfụ",
+	"vectorx-action-protect": "Cẹdolu",
+	"vectorx-action-undelete": "Á gbàkashikwà",
+	"vectorx-action-unprotect": "Nchẹdo mgbanwe",
+	"vectorx-view-create": "Ké",
+	"vectorx-view-edit": "Mèzi",
+	"vectorx-view-history": "Zí ịta",
+	"vectorx-view-view": "Gụ́",
+	"vectorx-view-viewsource": "Zi mkpurụ"
+}

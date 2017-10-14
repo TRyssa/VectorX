@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bogups",
+			"Тамэ Балъкъэрхэ"
+		]
+	},
+	"vectorx-action-addsection": "Теухугъуэ щӀэуэ щӀэдзэн",
+	"vectorx-action-delete": "Ихын",
+	"vectorx-action-move": "ЦӀэр хъуэжын",
+	"vectorx-action-protect": "Хъумэн",
+	"vectorx-action-undelete": "ЗыфӀэгъэувэжын",
+	"vectorx-action-unprotect": "Хъумэныр техыжын",
+	"vectorx-view-create": "ЩӀын",
+	"vectorx-view-edit": "Гъэтэрэзын",
+	"vectorx-view-history": "Тхыдэм еплъын",
+	"vectorx-view-view": "Еджэн",
+	"vectorx-view-viewsource": "КъызхэкӀам еплъын"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bresta"
+		]
+	},
+	"vectorx.css": "/* CSSi i vednosun këtu ka me i prekë shfrytëzuesit e dukjes VectorX */",
+	"vectorx.js": "/* Çdo JavaScript këtu ka me u ngarkue për shfrytëzuesit që përdorin dukjen VectorX */",
+	"vectorx-action-addsection": "Shto temë",
+	"vectorx-action-delete": "Fshij",
+	"vectorx-action-move": "Zhvendos",
+	"vectorx-action-protect": "Mbroj",
+	"vectorx-action-undelete": "Kthe fshimjen mbrapsht",
+	"vectorx-action-unprotect": "Hiq mbrojtjen",
+	"vectorx-view-create": "Krijo",
+	"vectorx-view-edit": "Redakto",
+	"vectorx-view-history": "Shih historinë",
+	"vectorx-view-view": "Lexo",
+	"vectorx-view-viewsource": "Shih kodin"
+}

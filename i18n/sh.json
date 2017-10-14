@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"OC Ripper",
+			"Conquistador",
+			"Srdjan m"
+		]
+	},
+	"vectorx-action-addsection": "Dodaj temu",
+	"vectorx-action-delete": "Brisanje",
+	"vectorx-action-move": "Premjesti",
+	"vectorx-action-protect": "Zaštiti",
+	"vectorx-action-undelete": "Vrati obrisano",
+	"vectorx-action-unprotect": "Promijeni zaštitu",
+	"vectorx-view-create": "Napravi",
+	"vectorx-view-edit": "Uredi",
+	"vectorx-view-history": "Vidi historiju",
+	"vectorx-view-view": "Čitaj",
+	"vectorx-view-viewsource": "Vidi izvor (source)",
+	"vectorx-more-actions": "Više"
+}

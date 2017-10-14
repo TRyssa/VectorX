@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirzali",
+			"Kumkumuk"
+		]
+	},
+	"vectorx-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
+	"vectorx-action-addsection": "Mewzu ilawe ke",
+	"vectorx-action-delete": "Bestere",
+	"vectorx-action-move": "Bere",
+	"vectorx-action-protect": "Bısevekne",
+	"vectorx-action-undelete": "Esterıtene peyser bıcê",
+	"vectorx-action-unprotect": "Şeveknayışi bıvurne",
+	"vectorx-view-create": "Vıraze",
+	"vectorx-view-edit": "Bıvurne",
+	"vectorx-view-history": "Tarixi bıvêne",
+	"vectorx-view-view": "Bıwane",
+	"vectorx-view-viewsource": "Çımey bıvêne",
+	"vectorx-more-actions": "Zêde"
+}

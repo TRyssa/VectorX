@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"NamwikiTL",
+			"VASANTH S.N.",
+			"Vishwanatha Badikana"
+		]
+	},
+	"vectorx-action-addsection": "ವಿಸಯೊ ಸೇರಾಲೆ",
+	"vectorx-action-delete": "ದೆತ್ತ್ ಪಾಡ್ಲೆ",
+	"vectorx-action-move": "ಸ್ತಲಾಂತರೊ ಮಲ್ಪುಲೆ",
+	"vectorx-action-protect": "ಸ೦ರಕ್ಷಿಸಾಲೆ",
+	"vectorx-action-undelete": "ಮಾಜಾವಡೆ",
+	"vectorx-action-unprotect": "ಬದಲಾವಣೆನ್ ರಕ್ಷಿಸಾಲೆ",
+	"vectorx-view-create": "ಸ್ರಿಸ್ಟಿಸಲೆ",
+	"vectorx-view-edit": "ಸಂಪೊಲಿಪುಲೆ",
+	"vectorx-view-history": "ಇತಿಹಾಸೊನು ತೂಲೆ",
+	"vectorx-view-view": "ಓದ್‍ಲೆ",
+	"vectorx-view-viewsource": "ಮೂಲೊನು ತೂಲೆ",
+	"vectorx-more-actions": "ನನಾತ್"
+}

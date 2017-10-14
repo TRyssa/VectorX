@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rkupsala"
+		]
+	},
+	"vectorx-action-delete": "Kufwa",
+	"vectorx-action-move": "Nata",
+	"vectorx-action-protect": "Keba",
+	"vectorx-view-create": "Tunga",
+	"vectorx-view-edit": "Soba",
+	"vectorx-view-history": "Tala bansoba",
+	"vectorx-view-view": "Tânga"
+}

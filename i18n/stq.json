@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyt"
+		]
+	},
+	"vectorx-action-addsection": "Ousnit bietouföigje",
+	"vectorx-action-delete": "Läskje",
+	"vectorx-action-move": "Ferskuuwe",
+	"vectorx-action-protect": "Skutsje",
+	"vectorx-action-undelete": "Wierhäärstaale",
+	"vectorx-action-unprotect": "Siedenskuts annerje",
+	"vectorx-view-create": "Moakje",
+	"vectorx-view-edit": "Beoarbaidje",
+	"vectorx-view-history": "Versionsgeskichte",
+	"vectorx-view-view": "Leese",
+	"vectorx-view-viewsource": "Wältext bekiekje"
+}

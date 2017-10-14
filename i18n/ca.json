@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aleator",
+			"Anskar",
+			"Calak",
+			"Paucabot",
+			"Ssola",
+			"Vriullop",
+			"Toniher",
+			"Fitoschido"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
+	"vectorx-action-addsection": "Afegeix un tema",
+	"vectorx-action-delete": "Esborra",
+	"vectorx-action-move": "Reanomena",
+	"vectorx-action-protect": "Protegeix",
+	"vectorx-action-undelete": "Restaura",
+	"vectorx-action-unprotect": "Desprotegeix",
+	"vectorx-view-create": "Crea",
+	"vectorx-view-edit": "Modifica",
+	"vectorx-view-history": "Mostra l’historial",
+	"vectorx-view-view": "Mostra",
+	"vectorx-view-viewsource": "Mostra el codi",
+	"vectorx-more-actions": "Més"
+}

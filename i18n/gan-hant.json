@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Symane"
+		]
+	},
+	"vectorx-action-addsection": "添主題",
+	"vectorx-action-delete": "刪吥",
+	"vectorx-action-move": "移吥",
+	"vectorx-action-protect": "護到",
+	"vectorx-action-undelete": "望下刪吥嗰頁面",
+	"vectorx-action-unprotect": "解除保護",
+	"vectorx-view-create": "創建",
+	"vectorx-view-edit": "編輯",
+	"vectorx-view-history": "望下歷史",
+	"vectorx-view-view": "讀",
+	"vectorx-view-viewsource": "望下原始碼"
+}

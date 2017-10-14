@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek",
+			"Emperyan",
+			"Joseph",
+			"Stultiwikia",
+			"Vito Genovese",
+			"Rapsar",
+			"Kumkumuk"
+		]
+	},
+	"vectorx-skin-desc": "MonoBook Modern versiyonu ile taze bir görünüm ve iyi bir kullanım kolaylığı",
+	"vectorx-action-addsection": "Konu ekle",
+	"vectorx-action-delete": "Sil",
+	"vectorx-action-move": "Taşı",
+	"vectorx-action-protect": "Koru",
+	"vectorx-action-undelete": "Silinmeyi geri al",
+	"vectorx-action-unprotect": "Korumayı değiştir",
+	"vectorx-view-create": "Oluştur",
+	"vectorx-view-edit": "Düzenle",
+	"vectorx-view-history": "Geçmişi gör",
+	"vectorx-view-view": "Oku",
+	"vectorx-view-viewsource": "Kaynağı gör",
+	"vectorx-more-actions": "Diğer"
+}

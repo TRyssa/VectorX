@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr"
+		]
+	},
+	"vectorx-action-addsection": "Ychwanegu adran",
+	"vectorx-action-delete": "Dileu",
+	"vectorx-action-move": "Symud",
+	"vectorx-action-protect": "Diogelu",
+	"vectorx-action-undelete": "Adfer",
+	"vectorx-action-unprotect": "Newid y diogelwch",
+	"vectorx-view-create": "Dechrau",
+	"vectorx-view-edit": "Golygu",
+	"vectorx-view-history": "Gweld yr hanes",
+	"vectorx-view-view": "Darllen",
+	"vectorx-view-viewsource": "Dangos côd y dudalen",
+	"vectorx-more-actions": "Rhagor"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sasan700",
+			"Умар",
+			"Исмаил Садуев"
+		]
+	},
+	"skinname-vectorx": "Векторан",
+	"vectorx-action-addsection": "Тема тӀетоха",
+	"vectorx-action-delete": "ДӀаяккхар",
+	"vectorx-action-move": "ЦӀе хийцар",
+	"vectorx-action-protect": "Ларъяр",
+	"vectorx-action-undelete": "МеттахӀоттае",
+	"vectorx-action-unprotect": "Ларъяр хийцар",
+	"vectorx-view-create": "Кхоллар",
+	"vectorx-view-edit": "Нисъе",
+	"vectorx-view-history": "АгӀона хийцамаш",
+	"vectorx-view-view": "Éшар",
+	"vectorx-view-viewsource": "Билглонашка хьажа",
+	"vectorx-more-actions": "Кхин"
+}

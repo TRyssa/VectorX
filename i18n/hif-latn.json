@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Girmitya",
+			"Thakurji"
+		]
+	},
+	"vectorx-action-addsection": "Topic jorro",
+	"vectorx-action-delete": "Mitao",
+	"vectorx-action-move": "Naam badlo",
+	"vectorx-action-protect": "Bachao",
+	"vectorx-action-undelete": "Pahile jaise karo",
+	"vectorx-action-unprotect": "Surakchha ke badlo",
+	"vectorx-view-create": "Banao",
+	"vectorx-view-edit": "Badlo",
+	"vectorx-view-history": "Itihaas dekho",
+	"vectorx-view-view": "Parrho",
+	"vectorx-view-viewsource": "Source dekho",
+	"vectorx-more-actions": "Aur"
+}

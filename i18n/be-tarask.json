@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Red Winged Duck",
+			"Wizardist"
+		]
+	},
+	"skinname-vectorx": "Вэктар",
+	"vectorx-skin-desc": "Сучасная вэрсія MonoBook з абноўленым выглядам і шматлікімі паляпшэньнямі",
+	"vectorx-action-addsection": "Дадаць тэму",
+	"vectorx-action-delete": "Выдаліць",
+	"vectorx-action-move": "Перанесьці",
+	"vectorx-action-protect": "Абараніць",
+	"vectorx-action-undelete": "Аднавіць",
+	"vectorx-action-unprotect": "Зьмяніць абарону",
+	"vectorx-view-create": "Стварыць",
+	"vectorx-view-edit": "Рэдагаваць",
+	"vectorx-view-history": "Паказаць гісторыю",
+	"vectorx-view-view": "Чытаць",
+	"vectorx-view-viewsource": "Паказаць крыніцу",
+	"vectorx-more-actions": "Болей"
+}

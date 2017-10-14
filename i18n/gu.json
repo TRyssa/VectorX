@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aritra",
+			"Ashok modhvadia",
+			"Dsvyas",
+			"KartikMistry"
+		]
+	},
+	"vectorx-skin-desc": "તાજા દેખાવ અને વધુ ઉપયોગી સુધારાઓ સાથે મોનોબુકની આધુનિક આવૃત્તિ",
+	"vectorx-action-addsection": "નવો વિષય",
+	"vectorx-action-delete": "રદ કરો",
+	"vectorx-action-move": "ખસેડો",
+	"vectorx-action-protect": "સુરક્ષિત કરો",
+	"vectorx-action-undelete": "રદ કરેલું પાછું વાળો",
+	"vectorx-action-unprotect": "સુરક્ષા બદલો",
+	"vectorx-view-create": "બનાવો",
+	"vectorx-view-edit": "ફેરફાર કરો",
+	"vectorx-view-history": "ઇતિહાસ જુઓ",
+	"vectorx-view-view": "વાંચો",
+	"vectorx-view-viewsource": "સ્રોત જુઓ",
+	"vectorx-more-actions": "વધુ"
+}

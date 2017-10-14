@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Usingha"
+		]
+	},
+	"vectorx-action-addsection": "বিষয় তিলকর",
+	"vectorx-action-delete": "পুসে বেলা",
+	"vectorx-action-move": "থেইকর",
+	"vectorx-action-protect": "লুকর",
+	"vectorx-action-undelete": "নাপুসি",
+	"vectorx-action-unprotect": "লুকরানিহান সিলকর",
+	"vectorx-view-create": "হঙকরিক",
+	"vectorx-view-edit": "পতানি",
+	"vectorx-view-history": "ইতিহাস চেইক",
+	"vectorx-view-view": "পাকরিক",
+	"vectorx-view-viewsource": "সোর্স চেইক"
+}

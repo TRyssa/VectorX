@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Muddyb Blast Producer"
+		]
+	},
+	"vectorx-action-addsection": "Weka mada",
+	"vectorx-action-delete": "Futa",
+	"vectorx-action-move": "Hamisha",
+	"vectorx-action-protect": "Linda",
+	"vectorx-action-undelete": "Rudisha",
+	"vectorx-action-unprotect": "Badilisha ulinzi",
+	"vectorx-view-create": "Anzisha",
+	"vectorx-view-edit": "Hariri",
+	"vectorx-view-history": "Fungua historia",
+	"vectorx-view-view": "Soma",
+	"vectorx-view-viewsource": "Tazama msimbo"
+}

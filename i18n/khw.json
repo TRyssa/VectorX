@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachitrali"
+		]
+	},
+	"vectorx-action-addsection": "نوغ موضوع",
+	"vectorx-action-delete": "بوغاوے",
+	"vectorx-action-move": "منتقل کورے",
+	"vectorx-action-protect": "محفوظ کورے",
+	"vectorx-action-undelete": "اچی انگیے",
+	"vectorx-action-unprotect": "غیر محفوظ",
+	"vectorx-view-create": "ساوزاوے",
+	"vectorx-view-edit": "ایڈٹ کورے",
+	"vectorx-view-history": "تاریخچہ",
+	"vectorx-view-view": "راوے",
+	"vectorx-view-viewsource": "مسودہ",
+	"vectorx-more-actions": "مزید"
+}

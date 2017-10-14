@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abdulla",
+			"Arystanbek",
+			"Casual",
+			"CoderSI",
+			"Sociologist",
+			"Nataev"
+		]
+	},
+	"skinname-vectorx": "Vektor",
+	"vectorx-action-addsection": "Mavzu qoʻshish",
+	"vectorx-action-delete": "O‘chirish",
+	"vectorx-action-move": "Ko‘chirish",
+	"vectorx-action-protect": "Himoyalash",
+	"vectorx-action-undelete": "Tiklash",
+	"vectorx-action-unprotect": "Himoyani oʻzgartirish",
+	"vectorx-view-create": "Yaratish",
+	"vectorx-view-edit": "Tahrirlash",
+	"vectorx-view-history": "Tarix",
+	"vectorx-view-view": "Mutolaa",
+	"vectorx-view-viewsource": "Manbasini koʻrish",
+	"vectorx-more-actions": "Yana"
+}

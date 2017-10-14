@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"E THP",
+			"Ebrahimi-amir",
+			"Mousa",
+			"Amir a57",
+			"Alp Er Tunqa",
+			"Ilğım"
+		]
+	},
+	"vectorx-action-addsection": "قوْنو آرتیر",
+	"vectorx-action-delete": "سیل",
+	"vectorx-action-move": "داشی",
+	"vectorx-action-protect": "قوْرو",
+	"vectorx-action-undelete": "سیلمگی قایتار",
+	"vectorx-action-unprotect": "قوْروماغی دَییشدیر",
+	"vectorx-view-create": "یارات",
+	"vectorx-view-edit": "دَییشدیر",
+	"vectorx-view-history": "گئچمیشه باخ",
+	"vectorx-view-view": "اوْخو",
+	"vectorx-view-viewsource": "قایناغا باخ",
+	"vectorx-more-actions": "داها"
+}

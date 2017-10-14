@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Szonja"
+		]
+	},
+	"vectorx-action-addsection": "Tilja topikos",
+	"vectorx-action-delete": "Tšuu nikki",
+	"vectorx-action-undelete": "Tšuu paale",
+	"vectorx-view-create": "Luona",
+	"vectorx-view-edit": "Muoka",
+	"vectorx-view-history": "Sik histores",
+	"vectorx-view-view": "Draba",
+	"vectorx-view-viewsource": "Sik navasiinako koodos"
+}

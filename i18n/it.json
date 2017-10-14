@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Darth Kule",
+			"Gianfranco",
+			"Melos",
+			"Pietrodn",
+			"FRacco",
+			"Elitre"
+		]
+	},
+	"vectorx-skin-desc": "Versione moderna del MonoBook con un aspetto rinnovato e molti miglioramenti dell'usabilità",
+	"vectorx.css": "/* Gli stili CSS inseriti qui si applicano agli utenti che usano il tema VectorX */",
+	"vectorx.js": "/* Il codice JavaScript inserito qui viene caricato dagli utenti che usano il tema VectorX */",
+	"vectorx-action-addsection": "Aggiungi discussione",
+	"vectorx-action-delete": "Cancella",
+	"vectorx-action-move": "Sposta",
+	"vectorx-action-protect": "Proteggi",
+	"vectorx-action-undelete": "Ripristina",
+	"vectorx-action-unprotect": "Cambia la protezione",
+	"vectorx-view-create": "Crea",
+	"vectorx-view-edit": "Modifica",
+	"vectorx-view-history": "Cronologia",
+	"vectorx-view-view": "Leggi",
+	"vectorx-view-viewsource": "Visualizza wikitesto",
+	"vectorx-more-actions": "Altro"
+}

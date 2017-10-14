@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Przemub",
+			"Schläsinger",
+			"Timpul",
+			"Äberlausitzer"
+		]
+	},
+	"vectorx-action-addsection": "Obschnitt hinzufiega",
+	"vectorx-action-delete": "Läscha",
+	"vectorx-action-move": "Verschieba",
+	"vectorx-action-protect": "Schützen",
+	"vectorx-action-undelete": "Wiederherstella",
+	"vectorx-action-unprotect": "Freigahn",
+	"vectorx-view-create": "Erstella",
+	"vectorx-view-edit": "Bearbeita",
+	"vectorx-view-history": "Versionsgeschichte",
+	"vectorx-view-view": "Lessa",
+	"vectorx-view-viewsource": "Quelltext siehn"
+}

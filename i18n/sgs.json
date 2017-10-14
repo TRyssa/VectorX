@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"vectorx-action-addsection": "Pridietė ožvardėnėma",
+	"vectorx-action-delete": "Trintė",
+	"vectorx-action-move": "Parvadintė",
+	"vectorx-action-protect": "Ožrakintė",
+	"vectorx-action-undelete": "Atkortė",
+	"vectorx-action-unprotect": "Keistė apsauga",
+	"vectorx-view-create": "Padėrbtė",
+	"vectorx-view-edit": "Taisītė",
+	"vectorx-view-history": "Istuorėjė",
+	"vectorx-view-view": "Skaitītė",
+	"vectorx-view-viewsource": "Veizietė kuoda",
+	"vectorx-more-actions": "Dā"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"vectorx-action-addsection": "Niej onderwarp",
+	"vectorx-action-delete": "Vortdoon",
+	"vectorx-action-move": "Herneumen",
+	"vectorx-action-protect": "Beveiligen",
+	"vectorx-action-undelete": "Weerummeplaotsen",
+	"vectorx-action-unprotect": "Beveiliging wiezigen",
+	"vectorx-view-create": "Anmaken",
+	"vectorx-view-edit": "Bewarken",
+	"vectorx-view-history": "Geschiedenisse bekieken",
+	"vectorx-view-view": "Lezen",
+	"vectorx-view-viewsource": "Brontekste bekieken",
+	"vectorx-more-actions": "Meer"
+}

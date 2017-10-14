@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mostafadaneshvar",
+			"RigiMahnoor"
+		]
+	},
+	"vectorx-action-addsection": "هور کتن عنوان",
+	"vectorx-action-delete": "زورگ",
+	"vectorx-action-move": "جاه په جاه",
+	"vectorx-action-protect": "حفاظت",
+	"vectorx-action-undelete": "ترینگ",
+	"vectorx-action-unprotect": "پروتکشنء ٹگل بدئ",
+	"vectorx-view-create": "شرکتن",
+	"vectorx-view-edit": "اصلاح",
+	"vectorx-view-history": "چارتن تاریح",
+	"vectorx-view-view": "وانتن",
+	"vectorx-view-viewsource": "پیشدارگ بن جاه",
+	"vectorx-more-actions": "گیشتر"
+}

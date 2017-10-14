@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jyllanj"
+		]
+	},
+	"vectorx-action-addsection": "Ny emn",
+	"vectorx-action-move": "Flytt",
+	"vectorx-view-create": "Oprett",
+	"vectorx-view-edit": "Redigiir",
+	"vectorx-view-history": "Sie historik",
+	"vectorx-view-view": "Läs",
+	"vectorx-more-actions": "Mier"
+}

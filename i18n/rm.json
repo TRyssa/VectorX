@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gion-andri",
+			"Terfili"
+		]
+	},
+	"vectorx-action-addsection": "Agiuntar chapitel",
+	"vectorx-action-delete": "Stizzar",
+	"vectorx-action-move": "Spustar",
+	"vectorx-action-protect": "Bloccar",
+	"vectorx-action-undelete": "Restituir",
+	"vectorx-action-unprotect": "Midar la protecziun",
+	"vectorx-view-create": "Crear",
+	"vectorx-view-edit": "Modifitgar",
+	"vectorx-view-history": "Cronologia",
+	"vectorx-view-view": "Leger",
+	"vectorx-view-viewsource": "Mussar il code",
+	"vectorx-more-actions": "dapli"
+}

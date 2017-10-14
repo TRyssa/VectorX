@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Rotemliss",
+			"Guycn2"
+		]
+	},
+	"skinname-vectorx": "וקטור",
+	"vectorx-skin-desc": "גרסה מודרנית של העיצוב \"מונובוק\" עם מראה רענן ושיפורי שמישות רבים",
+	"vectorx.css": "/* הסגנונות הנכתבים כאן ישפיעו על העיצוב \"וקטור\" בלבד */",
+	"vectorx.js": "/* כל הסקריפטים הנכתבים כאן ייטענו עבור מי שמשתמש בעיצוב \"וקטור\" בלבד */",
+	"vectorx-action-addsection": "פסקה חדשה",
+	"vectorx-action-delete": "מחיקה",
+	"vectorx-action-move": "העברה",
+	"vectorx-action-protect": "הגנה",
+	"vectorx-action-undelete": "שחזור",
+	"vectorx-action-unprotect": "שינוי הגנה",
+	"vectorx-view-create": "יצירה",
+	"vectorx-view-edit": "עריכה",
+	"vectorx-view-history": "גרסאות קודמות",
+	"vectorx-view-view": "קריאה",
+	"vectorx-view-viewsource": "הצגת מקור",
+	"vectorx-more-actions": "עוד"
+}

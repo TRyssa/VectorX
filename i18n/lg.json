@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kizito"
+		]
+	},
+	"vectorx-action-addsection": "Tandikawo emboozi endala",
+	"vectorx-action-delete": "Gyawo olupapula luno",
+	"vectorx-action-move": "Simbuliza",
+	"vectorx-action-protect": "Ssiba",
+	"vectorx-action-undelete": "Zawo",
+	"vectorx-action-unprotect": "Kyusa ebikugizo",
+	"vectorx-view-create": "Lukolewo",
+	"vectorx-view-edit": "Kyusa",
+	"vectorx-view-history": "Ennanda ya fayiro eno",
+	"vectorx-view-view": "Soma",
+	"vectorx-view-viewsource": "Kebera obulambike obw'ennono obw'olupapula luno"
+}

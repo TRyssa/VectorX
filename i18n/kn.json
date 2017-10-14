@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ktkaushik",
+			"Nayvik",
+			"VASANTH S.N.",
+			"Omshivaprakash"
+		]
+	},
+	"vectorx-action-addsection": "ವಿಷಯ ಸೇರಿಸಿ",
+	"vectorx-action-delete": "ಅಳಿಸು",
+	"vectorx-action-move": "ಸ್ಥಳಾಂತರಿಸಿ",
+	"vectorx-action-protect": "ಸಂರಕ್ಷಿಸು",
+	"vectorx-action-undelete": "ಅಳಿಸಬೇಡ",
+	"vectorx-action-unprotect": "ರಕ್ಷಣೆಯನ್ನು ಬದಲಾವಣೆ",
+	"vectorx-view-create": "ಸೃಷ್ಟಿಸು",
+	"vectorx-view-edit": "ಸಂಪಾದಿಸಿ",
+	"vectorx-view-history": "ಇತಿಹಾಸವನ್ನು ನೋಡಿ",
+	"vectorx-view-view": "ಓದು",
+	"vectorx-view-viewsource": "ಆಕರ ವೀಕ್ಷಿಸು",
+	"vectorx-more-actions": "ಇನ್ನಷ್ಟು"
+}

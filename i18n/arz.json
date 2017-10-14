@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ghaly",
+			"Meno25",
+			"Ramsis II"
+		]
+	},
+	"vectorx.css": "/* CSS اللى هنا حتأثر على اليوزرز اللى بيستخدموا واجهة فكتور */",
+	"vectorx.js": "/* اى جافاسكريبت هنا حتتحمل لكل يوزر بيستخدم واجهة فكتور */",
+	"vectorx-action-addsection": "ضيف موضوع",
+	"vectorx-action-delete": "مسح",
+	"vectorx-action-move": "نقل",
+	"vectorx-action-protect": "حمايه",
+	"vectorx-action-undelete": "الغى المسح",
+	"vectorx-action-unprotect": "غير الحمايه",
+	"vectorx-view-create": "اعمل",
+	"vectorx-view-edit": "تعديل",
+	"vectorx-view-history": "استعراض التاريخ",
+	"vectorx-view-view": "قرايه",
+	"vectorx-view-viewsource": "استعراض المصدر",
+	"vectorx-more-actions": "اكتر"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matma Rex",
+			"Sp5uhe"
+		]
+	},
+	"skinname-vectorx": "Wektor",
+	"vectorx-skin-desc": "Odświeżona wersja skórki Książka, z nowym wyglądem i usprawnieniami",
+	"vectorx.css": "/* Umieszczony tutaj kod CSS wpłynie na wygląd skórki Wektor */",
+	"vectorx.js": "/* Umieszczony tutaj kod JavaScript zostanie załadowany wyłącznie przez użytkowników korzystających ze skórki Wektor */",
+	"vectorx-action-addsection": "Dodaj temat",
+	"vectorx-action-delete": "Usuń",
+	"vectorx-action-move": "Przenieś",
+	"vectorx-action-protect": "Zabezpiecz",
+	"vectorx-action-undelete": "Odtwórz",
+	"vectorx-action-unprotect": "Zmień zabezpieczenie",
+	"vectorx-view-create": "Utwórz",
+	"vectorx-view-edit": "Edytuj",
+	"vectorx-view-history": "Wyświetl historię",
+	"vectorx-view-view": "Czytaj",
+	"vectorx-view-viewsource": "Tekst źródłowy",
+	"vectorx-more-actions": "Więcej"
+}

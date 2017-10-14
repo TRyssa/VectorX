@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pras",
+			"NoiX180"
+		]
+	},
+	"vectorx-action-addsection": "Tambah rembug",
+	"vectorx-action-delete": "Busak",
+	"vectorx-action-move": "Lih",
+	"vectorx-action-protect": "Reksa",
+	"vectorx-action-undelete": "Batalna pambusakan",
+	"vectorx-action-unprotect": "Owahi pangreksan",
+	"vectorx-view-create": "Gawé",
+	"vectorx-view-edit": "Besut",
+	"vectorx-view-history": "Deleng sujarah",
+	"vectorx-view-view": "Waca",
+	"vectorx-view-viewsource": "Pirsani sumber",
+	"vectorx-more-actions": "Liyané"
+}

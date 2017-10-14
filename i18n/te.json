@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chaduvari",
+			"Kiranmayee",
+			"Praveen Illa",
+			"Ravichandra",
+			"Veeven"
+		]
+	},
+	"skinname-vectorx": "వెక్టర్",
+	"vectorx-action-addsection": "విషయాన్ని చేర్చు",
+	"vectorx-action-delete": "తొలగించు",
+	"vectorx-action-move": "తరలించు",
+	"vectorx-action-protect": "సంరక్షించు",
+	"vectorx-action-undelete": "తొలగింపును రద్దుచెయ్యి",
+	"vectorx-action-unprotect": "సంరక్షణను మార్చు",
+	"vectorx-view-create": "సృష్టించు",
+	"vectorx-view-edit": "సవరించు",
+	"vectorx-view-history": "చరిత్రను చూడండి",
+	"vectorx-view-view": "చదువు",
+	"vectorx-view-viewsource": "మూలాన్ని చూపించు",
+	"vectorx-more-actions": "మరిన్ని"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alsandro",
+			"David1010",
+			"გიორგიმელა"
+		]
+	},
+	"skinname-vectorx": "ვექტორული",
+	"vectorx.css": "/* აქ ჩასმული CSS გამოყენებული იქნება ვექტორული გაფორმების თემაში */",
+	"vectorx-action-addsection": "თემის ჩამატება",
+	"vectorx-action-delete": "წაშლა",
+	"vectorx-action-move": "გადატანა",
+	"vectorx-action-protect": "დაცვა",
+	"vectorx-action-undelete": "აღდგენა",
+	"vectorx-action-unprotect": "დაცვის შეცვლა",
+	"vectorx-view-create": "შექმნა",
+	"vectorx-view-edit": "რედაქტირება",
+	"vectorx-view-history": "ისტორია",
+	"vectorx-view-view": "შემოწმებული სტატია",
+	"vectorx-view-viewsource": "წყაროს ხილვა",
+	"vectorx-more-actions": "მეტი"
+}

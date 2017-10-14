@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arslan",
+			"Khalid Mahmood"
+		]
+	},
+	"vectorx-action-addsection": "مضمون پاؤ",
+	"vectorx-action-delete": "مکاؤ",
+	"vectorx-action-move": "ٹرو",
+	"vectorx-action-protect": "بچاؤ",
+	"vectorx-action-undelete": "واپس لیاؤ",
+	"vectorx-action-unprotect": "تبدیلی بچاؤ",
+	"vectorx-view-create": "بناؤ",
+	"vectorx-view-edit": "لکھو",
+	"vectorx-view-history": "تریخ وکھاؤ",
+	"vectorx-view-view": "پڑھو",
+	"vectorx-view-viewsource": "ویکھو",
+	"vectorx-more-actions": "ہور"
+}

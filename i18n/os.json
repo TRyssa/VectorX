@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amikeco",
+			"Bouron"
+		]
+	},
+	"vectorx-action-addsection": "Нæуæг ныхас бакæнын",
+	"vectorx-action-delete": "Схафын",
+	"vectorx-action-move": "Ном ивын",
+	"vectorx-action-protect": "Сæхгæнын",
+	"vectorx-action-undelete": "Рацаразын",
+	"vectorx-action-unprotect": "Ивын хъахъхъæд",
+	"vectorx-view-create": "Скæнын",
+	"vectorx-view-edit": "Ивын",
+	"vectorx-view-history": "Истори",
+	"vectorx-view-view": "Кæсын",
+	"vectorx-view-viewsource": "Код кæсын",
+	"vectorx-more-actions": "Фылдæр"
+}

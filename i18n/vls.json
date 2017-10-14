@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"DasRakel"
+		]
+	},
+	"vectorx-action-delete": "Wegdoen",
+	"vectorx-action-move": "Ernoemn",
+	"vectorx-view-create": "Anmoakn",
+	"vectorx-view-edit": "Bewerkn",
+	"vectorx-view-history": "Geschiedenisse bekykn",
+	"vectorx-view-view": "Leezn",
+	"vectorx-view-viewsource": "Brontekst bekykn"
+}

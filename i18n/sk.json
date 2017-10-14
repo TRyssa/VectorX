@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84",
+			"Rudko",
+			"Sudo77(new)",
+			"KuboF",
+			"Mikulas1"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Moderná verzia MonoBooku so sviežim vzhľadom a vylepšenou použiteľnosťou",
+	"vectorx.css": "/* Tu umiestnené CSS bude ovplyvňovať používateľov štýlu VectorX */",
+	"vectorx.js": "/* Tu sa nachádzajúci JavaScript sa načíta používateľom vzhľadu VectorX */",
+	"vectorx-action-addsection": "Pridať tému",
+	"vectorx-action-delete": "Zmazať",
+	"vectorx-action-move": "Presunúť",
+	"vectorx-action-protect": "Zamknúť",
+	"vectorx-action-undelete": "Obnoviť",
+	"vectorx-action-unprotect": "Zmeniť stav ochrany",
+	"vectorx-view-create": "Vytvoriť",
+	"vectorx-view-edit": "Upraviť",
+	"vectorx-view-history": "Zobraziť históriu",
+	"vectorx-view-view": "Čítať",
+	"vectorx-view-viewsource": "Zobraziť zdroj",
+	"vectorx-more-actions": "Viac"
+}

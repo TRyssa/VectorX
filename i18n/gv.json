@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"MacTire02",
+			"Shimmin Beg"
+		]
+	},
+	"vectorx-action-addsection": "Cur cooish noa rish",
+	"vectorx-action-delete": "Scryss",
+	"vectorx-action-move": "Scugh",
+	"vectorx-action-protect": "Coadee",
+	"vectorx-action-undelete": "Jee-scryss",
+	"vectorx-action-unprotect": "Caghlaa coadey",
+	"vectorx-view-create": "Croo",
+	"vectorx-view-edit": "Reagh",
+	"vectorx-view-history": "Jeeagh er shennaghys",
+	"vectorx-view-view": "Lhaih",
+	"vectorx-view-viewsource": "Jeeagh er bun"
+}

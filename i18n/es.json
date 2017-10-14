@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Crazymadlover",
+			"Dalton2",
+			"Fitoschido",
+			"Locos epraix",
+			"Manuelt15",
+			"MarcoAurelio",
+			"Miguel2706",
+			"Platonides",
+			"Vivaelcelta"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versión moderna de MonoBook, con un aspecto actualizado y muchas mejoras de usabilidad",
+	"vectorx.css": "/* El CSS colocado en esta página afectará a los usuarios que usen la apariencia \"VectorX\" */",
+	"vectorx.js": "/* Cualquier código JavaScript escrito aquí se cargará para todos los usuarios que usen la apariencia VectorX */",
+	"vectorx-action-addsection": "Sección nueva",
+	"vectorx-action-delete": "Borrar",
+	"vectorx-action-move": "Trasladar",
+	"vectorx-action-protect": "Proteger",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Cambiar protección",
+	"vectorx-view-create": "Crear",
+	"vectorx-view-edit": "Editar",
+	"vectorx-view-history": "Ver historial",
+	"vectorx-view-view": "Leer",
+	"vectorx-view-viewsource": "Ver código",
+	"vectorx-more-actions": "Más"
+}

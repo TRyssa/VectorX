@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345",
+			"Nemo bis"
+		]
+	},
+	"skinname-vectorx": "動力",
+	"vectorx.css": "/* 此之 CSS 用於動力面之簿也 */",
+	"vectorx.js": "/* 此之JavaScript將載於用動力面之簿 */",
+	"vectorx-action-addsection": "入題",
+	"vectorx-action-delete": "刪",
+	"vectorx-action-move": "遷",
+	"vectorx-action-protect": "緘",
+	"vectorx-action-undelete": "覽刪",
+	"vectorx-action-unprotect": "啟",
+	"vectorx-view-create": "立",
+	"vectorx-view-edit": "纂",
+	"vectorx-view-history": "覽史",
+	"vectorx-view-view": "閱",
+	"vectorx-view-viewsource": "覽源",
+	"vectorx-more-actions": "益多"
+}

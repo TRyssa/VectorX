@@ -1,0 +1,41 @@
+Text:
+    #fff
+    
+    //helleres orange
+    Link: #FF8C00
+    
+    //dunkleres orange
+    menu link: #DD6900
+
+    
+body
+
+    background: #393939
+
+main content: 
+    Hintergrund: #272727
+    border: #D2A900
+    
+    
+    
+ background toc:   #171717
+ 
+ 
+Skin name:
+     localized skin name:   Vector (dunkel) fürs X-Lexikon
+     skin name:             VectorX
+     lowercase skin name:   vectorx
+ 
+https://phabricator.wikimedia.org/T89981
+
+
+
+wfLoadSkin( 'VectorX' );
+
+$wgDefaultSkin = "vectorx";
+
+
+replace Vector with VectorX:
+
+find ./ -type f -exec sed --in-place -e 's/Vector/VectorX/g' {} ';'
+find ./ -type f -exec sed --in-place -e 's/vector/vectorx/g' {} ';'

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb",
+			"Tkalyn"
+		]
+	},
+	"vectorx-action-addsection": "Придати тему",
+	"vectorx-action-delete": "Вымазати",
+	"vectorx-action-move": "Переменовати",
+	"vectorx-action-protect": "Всокотити",
+	"vectorx-action-undelete": "Обновити",
+	"vectorx-action-unprotect": "Змінити замок",
+	"vectorx-view-create": "Створити",
+	"vectorx-view-edit": "Едітовати",
+	"vectorx-view-history": "Видїти історію",
+	"vectorx-view-view": "Чітати",
+	"vectorx-view-viewsource": "Видїти код",
+	"vectorx-more-actions": "Веце"
+}

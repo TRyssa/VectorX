@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geoleplubo"
+		]
+	},
+	"vectorx-action-addsection": "Rajouter un sujeut",
+	"vectorx-action-delete": "Défacer",
+	"vectorx-action-move": "Canger ch'nom",
+	"vectorx-action-protect": "Garantir",
+	"vectorx-action-undelete": "N'poin défacher",
+	"vectorx-action-unprotect": "Canger l'garantie",
+	"vectorx-view-create": "Créer",
+	"vectorx-view-edit": "Éditer",
+	"vectorx-view-history": "Vir l'histoère",
+	"vectorx-view-view": "Lire",
+	"vectorx-view-viewsource": "Vir l'source"
+}

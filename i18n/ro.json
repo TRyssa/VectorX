@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"AdiJapan",
+			"Danutz",
+			"Firilacroco",
+			"Minisarm",
+			"Strainu",
+			"ImGelu"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versiunea modernă pentru MonoBook cu o înfățișare reîmprospătată și multe îmbunătățiri de uzabilitate",
+	"vectorx.css": "/* CSS plasate aici vor afecta utilizatorii stilului VectorX */",
+	"vectorx-action-addsection": "Mesaj nou",
+	"vectorx-action-delete": "Ștergere",
+	"vectorx-action-move": "Redenumire",
+	"vectorx-action-protect": "Protejare",
+	"vectorx-action-undelete": "Recuperare",
+	"vectorx-action-unprotect": "Modificare protecție",
+	"vectorx-view-create": "Creare",
+	"vectorx-view-edit": "Modificare",
+	"vectorx-view-history": "Istoric",
+	"vectorx-view-view": "Lectură",
+	"vectorx-view-viewsource": "Sursă pagină",
+	"vectorx-more-actions": "Mai mult"
+}

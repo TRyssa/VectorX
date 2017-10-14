@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"334a",
+			"Basharh",
+			"Michaelovic"
+		]
+	},
+	"vectorx-action-addsection": "ܐܘܣܦ ܡܠܘܐܐ",
+	"vectorx-action-delete": "ܫܘܦ",
+	"vectorx-action-move": "ܫܢܝ",
+	"vectorx-action-protect": "ܛܪ",
+	"vectorx-action-undelete": "ܠܐ ܫܘܦ",
+	"vectorx-action-unprotect": "ܫܚܠܦ ܢܛܝܪܘܬܐ",
+	"vectorx-view-create": "ܒܪܝ",
+	"vectorx-view-edit": "ܫܚܠܦ",
+	"vectorx-view-history": "ܚܙܝ ܬܫܥܝܬܐ",
+	"vectorx-view-view": "ܩܪܝ",
+	"vectorx-view-viewsource": "ܚܙܝ ܡܒܘܥܐ"
+}

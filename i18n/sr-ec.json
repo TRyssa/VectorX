@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher",
+			"Жељко Тодоровић",
+			"Михајло Анђелковић"
+		]
+	},
+	"skinname-vectorx": "Векторско",
+	"vectorx.css": "/* CSS постављен овде ће утицати на све кориснике теме „Векторско“ */",
+	"vectorx.js": "/* Јаваскрипт постављен овде ће се учитати за све оне који користе тему „Векторско“ */",
+	"vectorx-action-addsection": "Додај тему",
+	"vectorx-action-delete": "Обриши",
+	"vectorx-action-move": "Премести",
+	"vectorx-action-protect": "Заштити",
+	"vectorx-action-undelete": "Врати",
+	"vectorx-action-unprotect": "Промени заштиту",
+	"vectorx-view-create": "Направи",
+	"vectorx-view-edit": "Уреди",
+	"vectorx-view-history": "Историја",
+	"vectorx-view-view": "Читај",
+	"vectorx-view-viewsource": "Изворни код",
+	"vectorx-more-actions": "Више"
+}

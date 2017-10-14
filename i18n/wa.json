@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srtxg"
+		]
+	},
+	"vectorx-action-addsection": "Radjouter on sudjet",
+	"vectorx-action-delete": "Disfacer",
+	"vectorx-action-move": "Displaecî",
+	"vectorx-action-protect": "Protedjî",
+	"vectorx-action-undelete": "Rapexhî",
+	"vectorx-action-unprotect": "Candjî l' protedjaedje",
+	"vectorx-view-create": "Ahiver",
+	"vectorx-view-edit": "Candjî",
+	"vectorx-view-history": "Vey l' istwere",
+	"vectorx-view-view": "Lére",
+	"vectorx-view-viewsource": "Vey côde sourdant",
+	"vectorx-more-actions": "Di pus"
+}

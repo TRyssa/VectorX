@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator",
+			"DzWiki",
+			"KWiki",
+			"Edinwiki",
+			"Srdjan m"
+		]
+	},
+	"vectorx-skin-desc": "Moderna verzija MonoKnjige s novijim izgledom i mnogim poboljšanjima u pogledu upotrebljivosti",
+	"vectorx-action-addsection": "Dodaj temu",
+	"vectorx-action-delete": "Obriši",
+	"vectorx-action-move": "Premjesti",
+	"vectorx-action-protect": "Zaštiti",
+	"vectorx-action-undelete": "Vrati obrisano",
+	"vectorx-action-unprotect": "Promijeni zaštitu",
+	"vectorx-view-create": "Napravi",
+	"vectorx-view-edit": "Uredi",
+	"vectorx-view-history": "Historija",
+	"vectorx-view-view": "Čitaj",
+	"vectorx-view-viewsource": "Pogledaj izvor",
+	"vectorx-more-actions": "Više"
+}

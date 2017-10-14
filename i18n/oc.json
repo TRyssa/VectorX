@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boulaur",
+			"Cedric31"
+		]
+	},
+	"vectorx.css": "/* Lo CSS plaçat aicí afectarà los utilizaires de l’abilhatge VectorX */",
+	"vectorx.js": "/* Tot JavaScript aicí serà cargat amb las paginas accedidas pels utilizaires de l’abilhatge VectorX unicament. */",
+	"vectorx-action-addsection": "Apondre un subjècte",
+	"vectorx-action-delete": "Suprimir",
+	"vectorx-action-move": "Renomenar",
+	"vectorx-action-protect": "Protegir",
+	"vectorx-action-undelete": "Restablir",
+	"vectorx-action-unprotect": "Suprimir la proteccion",
+	"vectorx-view-create": "Crear",
+	"vectorx-view-edit": "Modificar",
+	"vectorx-view-history": "Veire l'istoric",
+	"vectorx-view-view": "Legir",
+	"vectorx-view-viewsource": "Veire la font",
+	"vectorx-more-actions": "Mai"
+}

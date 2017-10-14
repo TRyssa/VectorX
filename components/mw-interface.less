@@ -1,0 +1,280 @@
+/**
+ * MediaWiki style sheet for common core styles on interfaces
+ *
+ * Styles for the Monobook/VectorX pattern of laying out common interfaces.
+ * These ids/classes are not built into the system,
+ * they are outputted by the actual MonoBook/VectorX code by convention.
+ */
+
+/* Categories */
+.catlinks {
+	border: 1px solid @box-border-color;
+	background-color: @box-background-color;
+	padding: 5px;
+	margin-top: 1em;
+	clear: both;
+}
+
+textarea {
+	/* Support Firefox: Border rule required to override system appearance on Linux */
+	border: 1px solid #a2a9b1;
+}
+
+.editOptions {
+	background-color: @box-background-color;
+	border: 1px solid #c8ccd1;
+	border-top: 0;
+	padding: 1em 1em 1.5em 1em;
+	margin-bottom: 2em;
+}
+
+.usermessage {
+	background-color: #ffce7b;
+	border: 1px solid #ffa500;
+	color: #000;
+	font-weight: bold;
+	margin: 2em 0 1em;
+	padding: 0.5em 1em;
+	vertical-align: middle;
+}
+
+#siteNotice {
+	position: relative;
+	text-align: center;
+	margin: 0;
+}
+
+#localNotice {
+	margin-bottom: 0.9em;
+}
+
+.firstHeading {
+	margin-bottom: 0.1em;
+	/* These two rules hack around T4013 (fix for more limited T13325).
+	 * When T4013 is fixed properly, they should be removed. */
+	line-height: 1.2em;
+	padding-bottom: 0;
+}
+
+/* Sub-navigation */
+#siteSub {
+	display: none;
+}
+
+#jump-to-nav {
+	/* Negate #contentSub's margin and replicate it so that the jump to links don't affect the spacing */
+	margin-top: -1.4em;
+	margin-bottom: 1.4em;
+}
+
+#contentSub,
+#contentSub2 {
+	font-size: 84%;
+	line-height: 1.2em;
+	margin: 0 0 1.4em 1em;
+	color: @content-font-color-alt;
+	width: auto;
+}
+
+span.subpages {
+	display: block;
+}
+
+/* overriding builtin mediawiki styles: */
+
+/*
+ * Styling for Special:Watchlist and Special:RecentChanges
+ */
+#pagehistory li.selected {
+	background-color: @box-background-color;
+}
+
+/* Colored watchlist and recent changes numbers */
+.mw-plusminus-pos {
+	color: #009c00; /*  green */
+}
+.mw-plusminus-neg {
+	color: #f00; /*  red */
+}
+
+
+//Help interface
+#mw-indicator-mw-helplink a {
+	.background-image-svg('images/help.svg', 'images/help.png');
+}
+
+//wikiEditor
+
+.wikiEditor-ui {
+	background-color: @box-background-color !important;
+
+	textarea {
+		background-color: @body-background-color;
+		color: @content-font-color;
+	}
+}
+
+.wikiEditor-ui-controls {
+	background-color: @body-background-color !important;
+}
+
+.wikiEditor-ui-buttons {
+	background-color: @body-background-color !important;
+	border-top: none !important;
+}
+
+.wikiEditor-ui-tabs {
+	background-color: @box-background-color !important;
+	border-left: 1px solid #c0c0c0;
+	border-top: 1px solid #c0c0c0;
+
+	div {
+		background-color: @box-background-color !important;
+		border-right: 1px solid #c0c0c0;
+		border-bottom: 1px solid #c0c0c0;
+
+		a {
+			color: @menu-main-body-link-color !important;
+		}
+
+		&.current {
+			border-bottom: 1px solid #fff;
+			background-color: @body-background-color !important;
+
+			a {
+				color: @content-font-color !important;
+			}
+		}
+	}
+}
+
+.wikiEditor-ui-toolbar {
+	.background-image('images/WikiEditor/toolbar/base.png') !important;
+	
+	/* Expandable Sections */
+	.sections {
+		.section {
+			border-top: 1px solid #ddd;
+			background-color:  @box-background-color !important;
+		}
+	}
+	
+	/* Top Level Containers */
+	/* Tabs */
+	.tabs {
+
+		span.tab {
+
+			a,
+			a:visited {
+				.background-image-svg('images/WikiEditor/toolbar/arrow-ltr.svg', 'images/WikiEditor/toolbar/arrow-ltr.png') !important;
+				color: @menu-main-body-link-color !important;
+			}
+
+			a.current,
+			a.current:visited {
+				.background-image-svg('images/WikiEditor/toolbar/arrow-down.svg', 'images/WikiEditor/toolbar/arrow-down.png') !important;
+				color: @menu-main-body-link-visited-color !important;
+			}
+        }
+    }
+    
+    
+    
+	/* Groups */
+	.group {
+		border-right: 1px solid #ddd;
+
+		/* Toolbar */
+		.label {
+			color: @content-font-color !important;
+		}
+
+		.tool-select {
+			border: 1px solid #c0c0c0;
+			background-color: @box-background-color !important;
+
+			.label {
+				.background-image-svg( 'images/WikiEditor/toolbar/arrow-down.svg', 'images/toolbar/arrow-down.png' ) !important;
+				color: @content-font-color !important;
+			}
+
+			.menu {
+				.options {
+					border: 1px solid #c0c0c0;
+					background-color: @box-background-color !important;
+				}
+			}
+
+			.options {
+				.option {
+					color: @content-font-color !important;
+
+					&:hover {
+						background-color: @menu-background-color !important;
+					}
+				}
+			}
+		}
+	}
+    
+    
+    /* Booklet */
+	.booklet {
+		.index {
+
+			div {
+				color:  @menu-main-body-link-color !important;
+			}
+
+			.current {
+				background-color: @content-border-color !important;
+				color: @box-background-color !important;
+			}
+		}
+
+		.pages {
+			background-color: @box-background-color !important;
+		}
+	}
+    
+    /* Help Pages */
+	.page-table {
+
+		table {
+			background: none;
+		}
+
+		th {
+			color: #999;
+		}
+
+		td {
+			color: @content-font-color !important;
+			border-top: 1px solid @menu-background-color !important;
+		}
+	}
+
+	/* Characters Pages */
+	.page-characters {
+		div {
+			span {
+				border: 1px solid @menu-background-color !important;
+				color: @content-font-color !important;
+
+				&:hover {
+					background-color: @menu-background-color !important;
+					border-color: #a8d7f9;
+				}
+			}
+		}
+
+	}
+}
+
+
+
+/* Sprited Buttons */
+.wikiEditor-toolbar-spritedButton {
+	.background-image-svg('images/WikiEditor/toolbar/button-sprite.svg', 'images/WikiEditor/toolbar/button-sprite.png') !important;
+}

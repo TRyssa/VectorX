@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mdkidiri"
+		]
+	},
+	"vectorx-action-addsection": "Zîa mbênî lilö daä",
+	"vectorx-action-delete": "Lungûla",
+	"vectorx-action-move": "Sanzêe ïrï",
+	"vectorx-action-protect": "Funga",
+	"vectorx-action-undelete": "Kîri na nî",
+	"vectorx-action-unprotect": "Sanzêe fungä",
+	"vectorx-view-create": "Seka",
+	"vectorx-view-edit": "Sepe",
+	"vectorx-view-history": "Tanda mbai nî",
+	"vectorx-view-view": "Dîko",
+	"vectorx-view-viewsource": "Fa ligbî nî"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Demmy"
+		]
+	},
+	"vectorx-action-addsection": "Àfikún orí-ọ̀rọ̀",
+	"vectorx-action-delete": "Ìparẹ́",
+	"vectorx-action-move": "Ìyípòdà",
+	"vectorx-action-protect": "Àbò",
+	"vectorx-action-undelete": "Ìmúkúrò ìparẹ́",
+	"vectorx-action-unprotect": "Ìyípadà àbò",
+	"vectorx-view-create": "Ṣ'èdá",
+	"vectorx-view-edit": "Àtúnṣe",
+	"vectorx-view-history": "Wo ìtàn",
+	"vectorx-view-view": "Àwòkà",
+	"vectorx-view-viewsource": "Wo àmìọ̀rọ̀",
+	"vectorx-more-actions": "Ọ̀pọ̀"
+}

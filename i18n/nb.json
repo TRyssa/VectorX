@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo",
+			"Event",
+			"Nghtwlkr"
+		]
+	},
+	"vectorx-skin-desc": "Moderne versjon av MonoBook med et friskt utseende og mange bruksforbedringer",
+	"vectorx-action-addsection": "Nytt emne",
+	"vectorx-action-delete": "Slett",
+	"vectorx-action-move": "Flytt",
+	"vectorx-action-protect": "Beskytt",
+	"vectorx-action-undelete": "Gjenopprett",
+	"vectorx-action-unprotect": "Endre beskyttelse",
+	"vectorx-view-create": "Opprett",
+	"vectorx-view-edit": "Rediger",
+	"vectorx-view-history": "Vis historikk",
+	"vectorx-view-view": "Les",
+	"vectorx-view-viewsource": "Vis kilden",
+	"vectorx-more-actions": "Mer"
+}

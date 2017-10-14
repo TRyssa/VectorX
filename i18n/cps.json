@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Capisano",
+			"Oxyzen"
+		]
+	},
+	"vectorx-action-addsection": "Magdugang sang topiko",
+	"vectorx-action-delete": "Panason",
+	"vectorx-action-move": "Isdogon",
+	"vectorx-action-protect": "Protektahan",
+	"vectorx-action-undelete": "Indi pag panason",
+	"vectorx-action-unprotect": "Islan ang proteksyon",
+	"vectorx-view-create": "Ubrahon",
+	"vectorx-view-edit": "Bag-uhon",
+	"vectorx-view-history": "Ipakita ang kasaysayan",
+	"vectorx-view-view": "Basahon",
+	"vectorx-view-viewsource": "Lantawon ang ginhalinan"
+}

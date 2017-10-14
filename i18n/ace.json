@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fadli Idris",
+			"Si Gam Acèh"
+		]
+	},
+	"vectorx-action-addsection": "Tamah bhaih",
+	"vectorx-action-delete": "Sampôh",
+	"vectorx-action-move": "Pupinah",
+	"vectorx-action-protect": "Peulindông",
+	"vectorx-action-undelete": "Bateuë sampôh",
+	"vectorx-action-unprotect": "Gantoe neulindông",
+	"vectorx-view-create": "Peugöt",
+	"vectorx-view-edit": "Andam",
+	"vectorx-view-history": "Eu riwayat",
+	"vectorx-view-view": "Beuët",
+	"vectorx-view-viewsource": "Eu nè",
+	"vectorx-more-actions": "Lom"
+}

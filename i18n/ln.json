@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin",
+			"Moyogo"
+		]
+	},
+	"vectorx-action-addsection": "Kobakisa mpɔ̂",
+	"vectorx-action-delete": "Kolímwisa",
+	"vectorx-action-move": "Kobóngola nkómbó",
+	"vectorx-action-protect": "Kobátela",
+	"vectorx-action-undelete": "Kolímwisa tɛ̂",
+	"vectorx-action-unprotect": " Kobátela tɛ̂",
+	"vectorx-view-create": "Kokela",
+	"vectorx-view-edit": "Kobɔngisa",
+	"vectorx-view-history": "Komɔ́nisa mokóló",
+	"vectorx-view-view": "Kotánga",
+	"vectorx-view-viewsource": "Komɔ́nisa mosólo",
+	"vectorx-more-actions": "Elandí"
+}

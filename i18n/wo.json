@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ibou"
+		]
+	},
+	"vectorx-action-addsection": "Yokkuw tëriit",
+	"vectorx-action-delete": "Far",
+	"vectorx-action-move": "Tuddewaat",
+	"vectorx-action-protect": "Aar",
+	"vectorx-action-undelete": "Delloowaat",
+	"vectorx-action-unprotect": "Aaradi",
+	"vectorx-view-create": "Sos",
+	"vectorx-view-edit": "Soppi",
+	"vectorx-view-history": "Wone jaar-jaaram",
+	"vectorx-view-view": "Jàng",
+	"vectorx-view-viewsource": "Wone gongikuwaayam",
+	"vectorx-more-actions": "Yeneen"
+}

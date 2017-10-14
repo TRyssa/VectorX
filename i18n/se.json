@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gálaniitoluodda",
+			"Jeblad",
+			"Trondtr"
+		]
+	},
+	"vectorx-action-addsection": "Lasit fáttá",
+	"vectorx-action-delete": "Sihko",
+	"vectorx-action-move": "Sirdde",
+	"vectorx-action-protect": "Suodjal",
+	"vectorx-action-undelete": "Máhcat",
+	"vectorx-action-unprotect": "Rievdat suodjaleami",
+	"vectorx-view-create": "Álggat",
+	"vectorx-view-edit": "Rievdat",
+	"vectorx-view-history": "Geahča historjjá",
+	"vectorx-view-view": "Loga",
+	"vectorx-view-viewsource": "Geahča gáldokoda"
+}

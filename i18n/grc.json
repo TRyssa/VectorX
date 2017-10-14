@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Omnipaedista",
+			"Gts-tg"
+		]
+	},
+	"vectorx-action-addsection": "Θέμα προστιθέναι",
+	"vectorx-action-delete": "Σβεννύναι",
+	"vectorx-action-move": "Κινεῖν",
+	"vectorx-action-protect": "Φυλάττειν",
+	"vectorx-action-undelete": "Ἀποκαθιστάναι",
+	"vectorx-action-unprotect": "Ἄλλαξον τὴν φύλαξιν",
+	"vectorx-view-create": "Ποιεῖν",
+	"vectorx-view-edit": "Μεταγράφειν",
+	"vectorx-view-history": "Ἱστορίαν ὁρᾶν",
+	"vectorx-view-view": "Ἀναγνῶναι",
+	"vectorx-view-viewsource": "Ὁρᾶν τὴν πηγήν",
+	"vectorx-more-actions": "Πλεῖον"
+}

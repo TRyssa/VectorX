@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Enzoreg",
+			"Zanatos"
+		]
+	},
+	"vectorx-action-addsection": "Zid topic",
+	"vectorx-action-delete": "Suprimi",
+	"vectorx-action-move": "Neqel",
+	"vectorx-action-protect": "Ḫami",
+	"vectorx-action-undelete": "rja lhadf",
+	"vectorx-action-unprotect": "Ḫiyed l-ḫimaya",
+	"vectorx-view-create": "Ĥṫareĝ",
+	"vectorx-view-edit": "Ĝedel",
+	"vectorx-view-history": "Ṫariĥ l-fiċyé",
+	"vectorx-view-view": "Qra",
+	"vectorx-view-viewsource": "Ċof l-masdar"
+}

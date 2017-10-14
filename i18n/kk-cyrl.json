@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek",
+			"Daniyar",
+			"GaiJin",
+			"Kaztrans"
+		]
+	},
+	"vectorx-action-addsection": "Тақырып қосу",
+	"vectorx-action-delete": "Жою",
+	"vectorx-action-move": "Атауын өзгерту",
+	"vectorx-action-protect": "Қорғау",
+	"vectorx-action-undelete": "Жоюды болдырмау",
+	"vectorx-action-unprotect": "Қорғанысын өзгерту",
+	"vectorx-view-create": "Бастау",
+	"vectorx-view-edit": "Өңдеу",
+	"vectorx-view-history": "Өңделу тарихы",
+	"vectorx-view-view": "Оқу",
+	"vectorx-view-viewsource": "Қайнарын қарау",
+	"vectorx-more-actions": "Тағы"
+}

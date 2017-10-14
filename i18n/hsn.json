@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"YulouCN",
+			"SolidBlock"
+		]
+	},
+	"vectorx-skin-desc": "给杂清新的样子再加上好多吧多可用性的新MonoBook",
+	"vectorx-action-addsection": "搞杂话题",
+	"vectorx-action-delete": "消嘎",
+	"vectorx-action-move": "移走",
+	"vectorx-action-protect": "免修",
+	"vectorx-action-undelete": "还原",
+	"vectorx-action-unprotect": "换杂保护",
+	"vectorx-view-create": "弄噶",
+	"vectorx-view-edit": "增改",
+	"vectorx-view-history": "履歷",
+	"vectorx-view-view": "讀",
+	"vectorx-view-viewsource": "望下代碼",
+	"vectorx-more-actions": "更多"
+}

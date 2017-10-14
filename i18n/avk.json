@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wikimistusik"
+		]
+	},
+	"vectorx-action-addsection": "Loplekura va detce",
+	"vectorx-action-delete": "Sulara",
+	"vectorx-action-move": "Arrundara",
+	"vectorx-action-protect": "Nendara",
+	"vectorx-view-create": "Redura",
+	"vectorx-view-edit": "Betara",
+	"vectorx-view-history": "Wira va izvot",
+	"vectorx-view-view": "Belira",
+	"vectorx-view-viewsource": "klitawira"
+}

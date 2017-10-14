@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Freeyak",
+			"Phurbutsering",
+			"ཁ་བཏགས་ནག་པོ"
+		]
+	},
+	"vectorx-action-addsection": "བརྗོད་གཞི་ཁ་སྣོན།",
+	"vectorx-action-delete": "སུབས།",
+	"vectorx-action-move": "སྤོར་བ།",
+	"vectorx-action-protect": "འགོག་སྲུང།",
+	"vectorx-action-undelete": "མི་བསུབས་",
+	"vectorx-action-unprotect": "སྲུང་སྐྱོབ་གློད་པ།",
+	"vectorx-view-create": "གསར་བཟོ།",
+	"vectorx-view-edit": "རྩོམ་སྒྲིག",
+	"vectorx-view-history": "ལོ་རྒྱུས་ལ་ལྟ་བ།",
+	"vectorx-view-view": "ཀློག་པ།",
+	"vectorx-view-viewsource": "ཁུངས་ལ་ལྟ་བ།",
+	"vectorx-more-actions": "དེ་ལས་མང་བ།"
+}

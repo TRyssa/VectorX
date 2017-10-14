@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hosseinblue",
+			"Arash71",
+			"Lakzon"
+		]
+	},
+	"vectorx-skin-desc": "نسخه مدرن منوبوک با نگاه تازه و بهبود قابلیت استفاده",
+	"vectorx-action-addsection": "افزودن بۀخش",
+	"vectorx-action-delete": "حۀذف کردن/پاک کردن",
+	"vectorx-action-move": "جاوواز کرِدِن",
+	"vectorx-action-protect": "پروژۀ",
+	"vectorx-action-undelete": "گلآدائن حةذف/واگردانی حذف",
+	"vectorx-action-unprotect": "گؤەڕانن/تغییر سطح حفاظت",
+	"vectorx-view-create": "دؤِرس کردن/سازین",
+	"vectorx-view-edit": "دەسکاری",
+	"vectorx-view-history": "سئرکردن تاریخچۀ-ویرگار",
+	"vectorx-view-view": "خووەنن",
+	"vectorx-view-viewsource": "سئرکردن بِنچۀک/مۀنبۀع",
+	"vectorx-more-actions": "ویشتر/فرۀتر"
+}

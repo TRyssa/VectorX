@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"A R King"
+		]
+	},
+	"vectorx-action-addsection": "Yankwik temaj",
+	"vectorx-action-delete": "Shikishti",
+	"vectorx-action-move": "Shikijkwani",
+	"vectorx-action-undelete": "Shalkwepa",
+	"vectorx-view-create": "Shikchiwa",
+	"vectorx-view-edit": "Shikpata",
+	"vectorx-view-history": "Ken mupatak",
+	"vectorx-view-view": "Shiamatachia",
+	"vectorx-view-viewsource": "Shikita ne codigoj"
+}

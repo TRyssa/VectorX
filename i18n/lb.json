@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Modern Versioun vu Monobook mat frëschem Look a ville Verbesserunge vun der Benotzerfrëndlechkeet",
+	"vectorx.css": "/* CSS deen hei steet huet Afloss op all Benotzer vum Ausgesinn VectorX */",
+	"vectorx.js": "/* All JavaScript hei gëtt gelueden esoubal ee Benotzer d'Ausgesinn VectorX benotzt */",
+	"vectorx-action-addsection": "Sujet derbäisetzen",
+	"vectorx-action-delete": "Läschen",
+	"vectorx-action-move": "Réckelen",
+	"vectorx-action-protect": "Spären",
+	"vectorx-action-undelete": "Restauréieren",
+	"vectorx-action-unprotect": "Spär änneren",
+	"vectorx-view-create": "Uleeën",
+	"vectorx-view-edit": "Änneren",
+	"vectorx-view-history": "Versioune weisen",
+	"vectorx-view-view": "Liesen",
+	"vectorx-view-viewsource": "Quellcode weisen",
+	"vectorx-more-actions": "Méi"
+}

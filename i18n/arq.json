@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda",
+			"Oldstoneage",
+			"GeekEmad"
+		]
+	},
+	"vectorx-skin-desc": "طبعة جديدة تاع مونوبوك، ب شبحة جديدة و تحسانات فل إستعماليّة",
+	"vectorx-action-addsection": "زيد موضوع",
+	"vectorx-action-delete": "امحي",
+	"vectorx-action-move": "حول",
+	"vectorx-action-protect": "بروجي",
+	"vectorx-action-undelete": "ردّ كيما كان",
+	"vectorx-action-unprotect": "بدّل الـحماية",
+	"vectorx-view-create": "أصنع",
+	"vectorx-view-edit": "بدّل",
+	"vectorx-view-history": "شوف التاريخ",
+	"vectorx-view-view": "اقرى",
+	"vectorx-view-viewsource": "شوف المصدر",
+	"vectorx-more-actions": "اكثر"
+}

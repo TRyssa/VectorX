@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aalam",
+			"Babanwalia",
+			"Raj Singh",
+			"TariButtar",
+			"Tow"
+		]
+	},
+	"vectorx-skin-desc": "ਮੋਨੋਬੁੱਕ ਦੀ ਆਧੁਨਿਕ ਵਰਜਨ ਜਿਸ ਵਿਚ ਤਾਜ਼ਾ ਦਿੱਖ ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਉਪਯੋਗਤਾ ਸੁਧਾਰ ਹਨ",
+	"vectorx-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
+	"vectorx-action-delete": "ਹਟਾਓ",
+	"vectorx-action-move": "ਭੇਜੋ",
+	"vectorx-action-protect": "ਸੁਰੱਖਿਆ",
+	"vectorx-action-undelete": "ਹਟਾਉਣਾ-ਵਾਪਸ",
+	"vectorx-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
+	"vectorx-view-create": "ਬਣਾਓ",
+	"vectorx-view-edit": "ਸੋਧੋ",
+	"vectorx-view-history": "ਅਤੀਤ ਵੇਖੋ",
+	"vectorx-view-view": "ਪੜ੍ਹੋ",
+	"vectorx-view-viewsource": "ਸਰੋਤ ਵੇਖੋ",
+	"vectorx-more-actions": "ਹੋਰ"
+}

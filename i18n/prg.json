@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nertiks",
+			"Peteris"
+		]
+	},
+	"vectorx-action-delete": "Āupausinais",
+	"vectorx-action-move": "Prapīdais",
+	"vectorx-action-protect": "Kūnsteis",
+	"vectorx-action-unprotect": "Etkūnteis",
+	"vectorx-view-create": "Teīkeis",
+	"vectorx-view-edit": "Redigīs",
+	"vectorx-view-history": "Enwaidinnais istōrijan",
+	"vectorx-view-view": "Skaitāis",
+	"vectorx-view-viewsource": "Enwaidinnais appun"
+}

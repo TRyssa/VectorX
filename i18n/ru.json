@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatus",
+			"JenVan",
+			"Kaganer",
+			"Nemo bis",
+			"Okras",
+			"Александр Сигачёв"
+		]
+	},
+	"skinname-vectorx": "Векторное",
+	"vectorx-skin-desc": "Современная версия MonoBook с обновлённым оформлением и многими улучшениями в юзабилити",
+	"vectorx.css": "/* Размещённый здесь CSS будет применяться к векторной теме оформления  */",
+	"vectorx.js": "/* Размещённый здесь код JavaScript будет загружаться пользователям, использующим тему оформления VectorX */",
+	"vectorx-action-addsection": "Добавить тему",
+	"vectorx-action-delete": "Удалить",
+	"vectorx-action-move": "Переименовать",
+	"vectorx-action-protect": "Защитить",
+	"vectorx-action-undelete": "Восстановить",
+	"vectorx-action-unprotect": "Изменить защиту",
+	"vectorx-view-create": "Создать",
+	"vectorx-view-edit": "Править",
+	"vectorx-view-history": "История",
+	"vectorx-view-view": "Читать",
+	"vectorx-view-viewsource": "Просмотр кода",
+	"vectorx-more-actions": "Ещё"
+}

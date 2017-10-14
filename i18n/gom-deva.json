@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Darshan kandolkar",
+			"Pooja tople",
+			"Sanket.prabhu26",
+			"Supriya kankumbikar",
+			"The Discoverer"
+		]
+	},
+	"vectorx-action-addsection": "माथाळो ज़ोड",
+	"vectorx-action-delete": "काडून उडयात",
+	"vectorx-action-move": "दुसरेकडे व्हरात",
+	"vectorx-action-protect": "राख",
+	"vectorx-view-create": "रोच",
+	"vectorx-view-edit": "बदल",
+	"vectorx-view-history": "इतिहास पळेयात",
+	"vectorx-view-view": "वाचचें",
+	"vectorx-view-viewsource": "उगम पळेयात",
+	"vectorx-more-actions": "आनीक"
+}

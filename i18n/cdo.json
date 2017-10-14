@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yejianfei",
+			"唐吉訶德的侍從",
+			"GnuDoyng"
+		]
+	},
+	"vectorx-action-addsection": "Gă uâ-dà̤",
+	"vectorx-action-delete": "刪掉咯",
+	"vectorx-action-move": "移動",
+	"vectorx-action-protect": "保護",
+	"vectorx-action-undelete": "取消刪除",
+	"vectorx-action-unprotect": "改變保護",
+	"vectorx-view-create": "Cháung-gióng",
+	"vectorx-view-edit": "Siŭ-gāi",
+	"vectorx-view-history": "Káng lĭk-sṳ̄",
+	"vectorx-view-view": "Tĕ̤k",
+	"vectorx-view-viewsource": "看源代碼",
+	"vectorx-more-actions": "Gó-sâ̤"
+}

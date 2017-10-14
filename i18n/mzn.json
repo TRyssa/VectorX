@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mjbmr",
+			"محک"
+		]
+	},
+	"vectorx-action-addsection": "ترنه گپ بزوئن",
+	"vectorx-action-delete": "پاک هاکردن",
+	"vectorx-action-move": "دکش هاکردن",
+	"vectorx-action-protect": "زلفن بزوئن",
+	"vectorx-action-undelete": "دباره بنویشته بیّن",
+	"vectorx-action-unprotect": "زلفن عوض هاکردن",
+	"vectorx-view-create": "بساتن",
+	"vectorx-view-edit": "دچی‌ین",
+	"vectorx-view-history": "تاریخچه ره بَدی‌ین",
+	"vectorx-view-view": "بخوندستن",
+	"vectorx-view-viewsource": "ونه منبع ره هارشائن",
+	"vectorx-more-actions": "ویشته"
+}

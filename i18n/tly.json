@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн",
+			"Ganbarzada"
+		]
+	},
+	"vectorx-action-addsection": "Мывзу зијод кардеј",
+	"vectorx-action-delete": "Рәдд кардеј",
+	"vectorx-action-move": "Номи дәгиш кардеј",
+	"vectorx-action-protect": "Мыдофијә кардеј",
+	"vectorx-action-undelete": "Бәрпо кардеј",
+	"vectorx-action-unprotect": "Мыдофијә дәгиш кардеј",
+	"vectorx-view-create": "Офәјеј",
+	"vectorx-view-edit": "Сәрост кардеј",
+	"vectorx-view-history": "Тарых",
+	"vectorx-view-view": "Һандемон",
+	"vectorx-view-viewsource": "Дијә кардеј",
+	"vectorx-more-actions": "həniyən"
+}

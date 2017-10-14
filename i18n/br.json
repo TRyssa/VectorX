@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"skinname-vectorx": "Vektor",
+	"vectorx-skin-desc": "Stumm modern MonoBook freskaet e dres hag enni meur a wellaenn implijout",
+	"vectorx.css": "/* Talvezout a raio ar CSS lakaet amañ evit implijerien ar gwiskadur Vektor */",
+	"vectorx.js": "/* Kement JavaScript amañ a vo karget evit an implijerien a ra gant ar gwiskadur Vektor */",
+	"vectorx-action-addsection": "Rannbennad nevez",
+	"vectorx-action-delete": "Diverkañ",
+	"vectorx-action-move": "Adenvel",
+	"vectorx-action-protect": "Gwareziñ",
+	"vectorx-action-undelete": "Diziverkañ",
+	"vectorx-action-unprotect": "Cheñch gwarez",
+	"vectorx-view-create": "Krouiñ",
+	"vectorx-view-edit": "Kemmañ",
+	"vectorx-view-history": "Gwelet an istor",
+	"vectorx-view-view": "Lenn",
+	"vectorx-view-viewsource": "Sellet ouzh tarzh an destenn",
+	"vectorx-more-actions": "Muioc'h"
+}

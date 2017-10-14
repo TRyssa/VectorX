@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjargal",
+			"Elvonudinium"
+		]
+	},
+	"vectorx-action-addsection": "Һэдэб нэмэхэ",
+	"vectorx-action-delete": "Усадхаха",
+	"vectorx-action-move": "Зөөхэ",
+	"vectorx-view-create": "Үүдхэхэ",
+	"vectorx-view-edit": "Заһабарилха",
+	"vectorx-view-history": "Түүхые хараха",
+	"vectorx-view-view": "Уншаха",
+	"vectorx-view-viewsource": "эшэ үндэһэндэнь хандаха"
+}

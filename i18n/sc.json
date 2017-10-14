@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andria",
+			"Marzedu",
+			"Via maxima",
+			"Uharteko",
+			"Taxandru"
+		]
+	},
+	"vectorx-action-addsection": "Agiunghe cuntierra",
+	"vectorx-action-delete": "Burra",
+	"vectorx-action-move": "Move",
+	"vectorx-action-protect": "Barda",
+	"vectorx-action-undelete": "Recùpera",
+	"vectorx-view-create": "Crea",
+	"vectorx-view-edit": "Modìfica",
+	"vectorx-view-history": "Càstia istòria",
+	"vectorx-view-view": "Leghe",
+	"vectorx-view-viewsource": "Càstia mitza",
+	"vectorx-more-actions": "Prus"
+}

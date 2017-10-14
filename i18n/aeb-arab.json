@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"علاء",
+			"Csisc"
+		]
+	},
+	"vectorx-action-addsection": "أضف موضوعاً",
+	"vectorx-action-delete": "احذف",
+	"vectorx-action-move": "حوّل",
+	"vectorx-action-protect": "احم",
+	"vectorx-action-undelete": "استرجع الحذف",
+	"vectorx-action-unprotect": "غير الحماية",
+	"vectorx-view-create": "أنشئ",
+	"vectorx-view-edit": "بدّل",
+	"vectorx-view-history": "ورّي الپاج",
+	"vectorx-view-view": "أقرا",
+	"vectorx-view-viewsource": "اعرض المصدر",
+	"vectorx-more-actions": "زادة"
+}

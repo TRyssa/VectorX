@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akerbeltz",
+			"GunChleoc"
+		]
+	},
+	"vectorx-skin-desc": "Tionndadh ùr-nodha de MonoBook le dreach ùr air 's iomadh leasachadh air a sho-chleachdachd",
+	"vectorx-action-addsection": "Cuir ris cuspair",
+	"vectorx-action-delete": "Sguab às",
+	"vectorx-action-move": "Gluais",
+	"vectorx-action-protect": "Dìon",
+	"vectorx-action-undelete": "Neo-dhèan an sguabadh às",
+	"vectorx-action-unprotect": "Atharraich an dìon",
+	"vectorx-view-create": "Cruthaich",
+	"vectorx-view-edit": "Deasaich",
+	"vectorx-view-history": "Seall an eachdraidh",
+	"vectorx-view-view": "Leugh",
+	"vectorx-view-viewsource": "Seall an tùs",
+	"vectorx-more-actions": "Barrachd"
+}

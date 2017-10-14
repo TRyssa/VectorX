@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marozols",
+			"Papuass"
+		]
+	},
+	"vectorx-action-addsection": "Jauna sadaļa",
+	"vectorx-action-delete": "Dzēst",
+	"vectorx-action-move": "Pārvietot",
+	"vectorx-action-protect": "Aizsargāt",
+	"vectorx-action-undelete": "Atjaunot",
+	"vectorx-action-unprotect": "Mainīt aizsardzību",
+	"vectorx-view-create": "Izveidot",
+	"vectorx-view-edit": "Labot",
+	"vectorx-view-history": "Hronoloģija",
+	"vectorx-view-view": "Skatīt",
+	"vectorx-view-viewsource": "Aplūkot kodu",
+	"vectorx-more-actions": "Vairāk"
+}

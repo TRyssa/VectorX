@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kilavagora",
+			"Lika2672",
+			"Machirkholi",
+			"Silovan"
+		]
+	},
+	"vectorx-action-addsection": "თემაშ მიშაძინა",
+	"vectorx-action-delete": "ლასუა",
+	"vectorx-action-move": "გინოღალა",
+	"vectorx-action-protect": "თხილუა",
+	"vectorx-view-create": "დორსხუაფა",
+	"vectorx-view-edit": "რედაქტირაფა",
+	"vectorx-view-history": "ისტორიაშ ძირაფა",
+	"vectorx-view-view": "კითხირი",
+	"vectorx-view-viewsource": "ქიძირე წყუ",
+	"vectorx-more-actions": "უმოსი"
+}

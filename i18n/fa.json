@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Ebraminio",
+			"Huji",
+			"Reza1615",
+			"Zack90"
+		]
+	},
+	"skinname-vectorx": "برداری",
+	"vectorx-skin-desc": "نسخه مدرن منوبوک با نگاه تازه و بهبود قابلیت استفاده",
+	"vectorx.css": "/* دستورات این بخش کاربرانی را که از پوستهٔ وکتور استفاده کنند تحت تاثیر قرار می‌دهند. */",
+	"vectorx.js": "/ * کدهای جاوااسکریپتی که در اینجا قرار می‌گیرند برای کاربران پوستهٔ وکتور  بارگیری می‌شود * /",
+	"vectorx-action-addsection": "افزودن بخش",
+	"vectorx-action-delete": "حذف",
+	"vectorx-action-move": "انتقال",
+	"vectorx-action-protect": "محافظت",
+	"vectorx-action-undelete": "احیا",
+	"vectorx-action-unprotect": "تغییر سطح حفاظت",
+	"vectorx-view-create": "ایجاد",
+	"vectorx-view-edit": "ویرایش",
+	"vectorx-view-history": "نمایش تاریخچه",
+	"vectorx-view-view": "خواندن",
+	"vectorx-view-viewsource": "نمایش مبدأ",
+	"vectorx-more-actions": "بیشتر"
+}

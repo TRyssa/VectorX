@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"vectorx-action-addsection": "Hanampy lohahevitra",
+	"vectorx-action-delete": "Fafana",
+	"vectorx-action-move": "Hanolo anarana",
+	"vectorx-action-protect": "Arovy",
+	"vectorx-action-undelete": "Avereno",
+	"vectorx-action-unprotect": "Hanala ny fiarovana",
+	"vectorx-view-create": "Foronona",
+	"vectorx-view-edit": "Hanova",
+	"vectorx-view-history": "Hijery ny tantara",
+	"vectorx-view-view": "Hamaky",
+	"vectorx-view-viewsource": "Hijery fango",
+	"vectorx-more-actions": "Be kokoa"
+}

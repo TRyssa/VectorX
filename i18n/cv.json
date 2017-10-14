@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chavash",
+			"FLAGELLVM DEI",
+			"Chuvash2014"
+		]
+	},
+	"vectorx-action-addsection": "Тема хуш",
+	"vectorx-action-delete": "Кăларса пăрах",
+	"vectorx-action-move": "Ятне улăштар",
+	"vectorx-action-protect": "Хӳтĕле",
+	"vectorx-view-create": "Çĕннине ту",
+	"vectorx-view-edit": "Тӳрлет",
+	"vectorx-view-history": "Истори",
+	"vectorx-view-view": "Вула",
+	"vectorx-view-viewsource": "Кодне пăх",
+	"vectorx-more-actions": "Тата"
+}

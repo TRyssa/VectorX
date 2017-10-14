@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Byrial",
+			"Christian List",
+			"Peter Alberti"
+		]
+	},
+	"vectorx-skin-desc": "Moderne version af MonoBook med frisk udseende og mange forbedringer af brugervenligheden",
+	"vectorx-action-addsection": "Nyt emne",
+	"vectorx-action-delete": "Slet",
+	"vectorx-action-move": "Flyt",
+	"vectorx-action-protect": "Beskyt",
+	"vectorx-action-undelete": "Gendan",
+	"vectorx-action-unprotect": "Ændr beskyttelse",
+	"vectorx-view-create": "Opret",
+	"vectorx-view-edit": "Redigér",
+	"vectorx-view-history": "Se historik",
+	"vectorx-view-view": "Læs",
+	"vectorx-view-viewsource": "Se kilden",
+	"vectorx-more-actions": "Mere"
+}

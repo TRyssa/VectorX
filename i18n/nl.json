@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Romaine",
+			"SPQRobin",
+			"Siebrand",
+			"Troefkaart",
+			"Sjoerddebruin"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Moderne versie van MonoBook met een fris uiterlijk en verbeteringen op het gebied van gebruiksvriendelijkheid",
+	"vectorx.css": "/* CSS die hier wordt geplaatst heeft alleen invloed op het uiterlijk VectorX */",
+	"vectorx.js": "/* JavaScript die hier wordt geplaatst heeft alleen invloed op gebruikers die het uiterlijk VectorX gebruiken */",
+	"vectorx-action-addsection": "Kopje toevoegen",
+	"vectorx-action-delete": "Verwijderen",
+	"vectorx-action-move": "Hernoemen",
+	"vectorx-action-protect": "Beveiligen",
+	"vectorx-action-undelete": "Terugplaatsen",
+	"vectorx-action-unprotect": "Beveiliging wijzigen",
+	"vectorx-view-create": "Aanmaken",
+	"vectorx-view-edit": "Bewerken",
+	"vectorx-view-history": "Geschiedenis weergeven",
+	"vectorx-view-view": "Lezen",
+	"vectorx-view-viewsource": "Brontekst bekijken",
+	"vectorx-more-actions": "Meer"
+}

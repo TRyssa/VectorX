@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cainamarques",
+			"Diego Queiroz",
+			"Giro720",
+			"Helder.wiki",
+			555,
+			"He7d3r",
+			"!Silent",
+			"Felipe L. Ewald"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versão moderna do MonoBook com um visual limpo e várias melhorias de usabilidade",
+	"vectorx.css": "/* CSS colocado aqui irá afetar usuários do tema VectorX */",
+	"vectorx.js": "/* Qualquer JavaScript aqui colocado será carregado para usuários usando o tema VectorX */",
+	"vectorx-action-addsection": "Adicionar tópico",
+	"vectorx-action-delete": "Excluir",
+	"vectorx-action-move": "Mover",
+	"vectorx-action-protect": "Proteger",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Alterar a proteção",
+	"vectorx-view-create": "Criar",
+	"vectorx-view-edit": "Editar",
+	"vectorx-view-history": "Ver histórico",
+	"vectorx-view-view": "Ler",
+	"vectorx-view-viewsource": "Ver código-fonte",
+	"vectorx-more-actions": "Mais"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Thuvack"
+		]
+	},
+	"vectorx-action-addsection": "Veka nholoko ya mhaka",
+	"vectorx-action-delete": "Sula",
+	"vectorx-action-move": "Yi sa kunwana",
+	"vectorx-action-protect": "Sirhelela",
+	"vectorx-action-undelete": "Cinca kusula",
+	"vectorx-action-unprotect": "Cinca kusirhelela",
+	"vectorx-view-create": "Tumbuluxa",
+	"vectorx-view-edit": "Lulamisa",
+	"vectorx-view-history": "Languta matimu",
+	"vectorx-view-view": "Hlaya",
+	"vectorx-view-viewsource": "Languta xihlovo"
+}

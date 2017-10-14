@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Clerc",
+			"Fiestoforo"
+		]
+	},
+	"vectorx-action-addsection": "Püñamtun dungu",
+	"vectorx-action-delete": "Liftun",
+	"vectorx-action-move": "Wiñamün",
+	"vectorx-action-protect": "Nürüfkünun",
+	"vectorx-action-undelete": "Wüñoñamümün",
+	"vectorx-action-unprotect": "Kalekünun Nürüfkünun",
+	"vectorx-view-create": "Dewman",
+	"vectorx-view-edit": "Kümeelün",
+	"vectorx-view-history": "Pengelün rupañmael",
+	"vectorx-view-view": "Chillkatun",
+	"vectorx-view-viewsource": "Kimam chew küpan chi wirin",
+	"vectorx-more-actions": "Doy"
+}

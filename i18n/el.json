@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Crazymadlover",
+			"Evropi",
+			"Omnipaedista",
+			"Protnet",
+			"ZaDiak",
+			"Geraki"
+		]
+	},
+	"vectorx-skin-desc": "Σύγχρονη έκδοση του MonoBook με φρέσκια ματιά και πολλές βελτιώσεις χρηστικότητας",
+	"vectorx.css": "/* Το τοποθετημένο εδώ CSS θα επηρεάσει χρήστες του VectorX skin */",
+	"vectorx.js": "/* Οποιοσδήποτε κώδικας JavaScript εδώ θα φορτωθεί για χρήστες που χρησιμοποιούν το VectorX skin */",
+	"vectorx-action-addsection": "Προσθήκη θέματος",
+	"vectorx-action-delete": "Διαγραφή",
+	"vectorx-action-move": "Μετακίνηση",
+	"vectorx-action-protect": "Προστασία",
+	"vectorx-action-undelete": "Επαναφορά",
+	"vectorx-action-unprotect": "Αλλαγή προστασίας",
+	"vectorx-view-create": "Δημιουργία",
+	"vectorx-view-edit": "Επεξεργασία",
+	"vectorx-view-history": "Προβολή ιστορικού",
+	"vectorx-view-view": "Ανάγνωση",
+	"vectorx-view-viewsource": "Προβολή κώδικα",
+	"vectorx-more-actions": "Περισσότερα"
+}

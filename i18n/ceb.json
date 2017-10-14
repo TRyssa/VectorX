@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jordz",
+			"Bentong Isles"
+		]
+	},
+	"vectorx-action-addsection": "Pagdugang og topiko",
+	"vectorx-action-delete": "Papasa",
+	"vectorx-action-move": "Ibalhin",
+	"vectorx-action-protect": "Protektahi",
+	"vectorx-action-undelete": "Ayaw papasa",
+	"vectorx-action-unprotect": "Ayaw protektahi",
+	"vectorx-view-create": "Himoa",
+	"vectorx-view-edit": "Usba",
+	"vectorx-view-history": "Tan-awa ang kaagi",
+	"vectorx-view-view": "Basaha",
+	"vectorx-view-viewsource": "Tan-awa ang ginikanan",
+	"vectorx-more-actions": "Uban pa..."
+}

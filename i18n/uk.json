@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"AS",
+			"Ahonc",
+			"Base",
+			"Calak",
+			"Dim Grits",
+			"NickK",
+			"Prima klasy4na",
+			"Тест",
+			"Ата",
+			"Piramidion"
+		]
+	},
+	"skinname-vectorx": "Векторне",
+	"vectorx-skin-desc": "Сучасна версія MonoBook зі свіжим виглядом і багатьма зручними покращеннями",
+	"vectorx.css": "/* Розміщений тут CSS-код буде використаний в темі оформлення Векторне */",
+	"vectorx.js": "/* Розміщений тут код JavaScript буде завантажений для всіх користувачів, що використовують векторну тему оформлення */",
+	"vectorx-action-addsection": "Додати тему",
+	"vectorx-action-delete": "Вилучити",
+	"vectorx-action-move": "Перейменувати",
+	"vectorx-action-protect": "Захистити",
+	"vectorx-action-undelete": "Відновити",
+	"vectorx-action-unprotect": "Зміна захисту",
+	"vectorx-view-create": "Створити",
+	"vectorx-view-edit": "Редагувати",
+	"vectorx-view-history": "Переглянути історію",
+	"vectorx-view-view": "Читати",
+	"vectorx-view-viewsource": "Переглянути код",
+	"vectorx-more-actions": "Ще"
+}

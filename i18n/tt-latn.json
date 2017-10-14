@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro",
+			"Frhdkazan"
+		]
+	},
+	"skinname-vectorx": "Sızımlı",
+	"vectorx-action-addsection": "Yaña tema östäw",
+	"vectorx-action-delete": "Beterü",
+	"vectorx-action-move": "Küçerü",
+	"vectorx-action-protect": "Yaqlaw",
+	"vectorx-action-undelete": "Qaytaru",
+	"vectorx-action-unprotect": "Yaqlawnı beterü",
+	"vectorx-view-create": "Tözü",
+	"vectorx-view-edit": "Üzgärtü",
+	"vectorx-view-history": "Tarixın qaraw",
+	"vectorx-view-view": "Uqu",
+	"vectorx-view-viewsource": "Çığanağın qaraw",
+	"vectorx-more-actions": "Başqalar"
+}

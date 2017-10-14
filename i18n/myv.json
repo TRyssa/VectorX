@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Botuzhaleny-sodamo",
+			"Rueter"
+		]
+	},
+	"vectorx-action-addsection": "Поладомс мезде кортамс",
+	"vectorx-action-delete": "Нардамс",
+	"vectorx-action-move": "Печтевтемс",
+	"vectorx-action-protect": "Аравтомс ванстомас",
+	"vectorx-action-undelete": "Вельмевтемс нардазенть",
+	"vectorx-action-unprotect": "Полавтомс ванстоманзо",
+	"vectorx-view-create": "Теемс-Шкамс",
+	"vectorx-view-edit": "Витнемс-петнемс",
+	"vectorx-view-history": "Ваномс юронзо-путовксонзо",
+	"vectorx-view-view": "Ловномс",
+	"vectorx-view-viewsource": "Ваномс косто саезь",
+	"vectorx-more-actions": "Седе ламо"
+}

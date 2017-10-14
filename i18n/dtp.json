@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"FRANCIS5091",
+			"FRANELYA"
+		]
+	},
+	"vectorx-action-addsection": "Ruhangai piboboroson",
+	"vectorx-action-delete": "Pugaso",
+	"vectorx-action-move": "Poundoliho",
+	"vectorx-action-protect": "Tingoligai",
+	"vectorx-action-undelete": "Kada pugaso",
+	"vectorx-action-unprotect": "Alanai tingolig",
+	"vectorx-view-create": "Pomonsoi",
+	"vectorx-view-edit": "Idito",
+	"vectorx-view-history": "Intaai susuyan",
+	"vectorx-view-view": "Basao",
+	"vectorx-view-viewsource": "Intaai wowonod"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар",
+			"Gazimagomedov"
+		]
+	},
+	"vectorx-skin-desc": "MonoBook'алъул цӀияб версия цияб куцгун ва цӀиял юзабилитиялгун",
+	"vectorx-action-addsection": "Тема жубазе",
+	"vectorx-action-delete": "БацIцIине",
+	"vectorx-action-move": "ЦӀар хисизе",
+	"vectorx-action-protect": "Хиса-басияздасан цIунизе",
+	"vectorx-action-undelete": "БукӀараб гӀадин гьабизе",
+	"vectorx-action-unprotect": "ЦӀуни хисизе",
+	"vectorx-view-create": "Гьабизе",
+	"vectorx-view-edit": "Хисизабизе",
+	"vectorx-view-history": "Тарих балагьизе",
+	"vectorx-view-view": "ЦӀализе",
+	"vectorx-view-viewsource": "Вики-текст балагьизе",
+	"vectorx-more-actions": "Жеги"
+}

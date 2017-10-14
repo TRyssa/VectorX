@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"vectorx-action-addsection": "Temu pśidaś",
+	"vectorx-action-delete": "Wulašowaś",
+	"vectorx-action-move": "Pśesunuś",
+	"vectorx-action-protect": "Šćitaś",
+	"vectorx-action-undelete": "Wótnowiś",
+	"vectorx-action-unprotect": "Šćit změniś",
+	"vectorx-view-create": "Napóraś",
+	"vectorx-view-edit": "Wobźěłaś",
+	"vectorx-view-history": "Wersije a awtory",
+	"vectorx-view-view": "Cytaś",
+	"vectorx-view-viewsource": "Žrědło se woglědaś"
+}

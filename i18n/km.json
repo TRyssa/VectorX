@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន",
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"skinname-vectorx": "វ៉ិចទ័រ​​",
+	"vectorx.css": "/* CSS បានដាក់ទីនេះនឹងមានអនុភាពលើអ្នកប្រើប្រាស់នៃសំបក VectorX */",
+	"vectorx-action-addsection": "បន្ថែម​ប្រធានបទ​",
+	"vectorx-action-delete": "លុបចោល",
+	"vectorx-action-move": "ប្តូរទីតាំង",
+	"vectorx-action-protect": "ការពារ",
+	"vectorx-action-undelete": "ឈប់លុបចោល",
+	"vectorx-action-unprotect": "ប្ដូរការការពារ",
+	"vectorx-view-create": "បង្កើត​",
+	"vectorx-view-edit": "កែប្រែ​",
+	"vectorx-view-history": "មើល​ប្រវត្តិ​",
+	"vectorx-view-view": "អាន",
+	"vectorx-view-viewsource": "មើល​កូដ",
+	"vectorx-more-actions": "បន្ថែមទៀត"
+}

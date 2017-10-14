@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Byeboer",
+			"Naudefj"
+		]
+	},
+	"vectorx-action-addsection": "Nuwe onderwerp",
+	"vectorx-action-delete": "Skrap",
+	"vectorx-action-move": "Skuif",
+	"vectorx-action-protect": "Beskerm",
+	"vectorx-action-undelete": "Ontskrap",
+	"vectorx-action-unprotect": "Wysig beskerming",
+	"vectorx-view-create": "Skep",
+	"vectorx-view-edit": "Wysig",
+	"vectorx-view-history": "Wys geskiedenis",
+	"vectorx-view-view": "Lees",
+	"vectorx-view-viewsource": "Wys bronteks",
+	"vectorx-more-actions": "Meer"
+}

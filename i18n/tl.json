@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw",
+			"Sky Harbor"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx.css": "/* Ang inilagay na CSS dito ay makakaapekto sa mga tagagamit ng pabalat na VectorX */",
+	"vectorx.js": "/* Ang anumang JavaScript dito ay ikakarga para sa mga tagagamit na gumagamit ng pabalat na VectorX */",
+	"vectorx-action-addsection": "Magdagdag ng paksa",
+	"vectorx-action-delete": "Burahin",
+	"vectorx-action-move": "Ilipat",
+	"vectorx-action-protect": "Ipagsanggalang",
+	"vectorx-action-undelete": "Alisin ang pagbubura",
+	"vectorx-action-unprotect": "Baguhin ang pagsasanggalang",
+	"vectorx-view-create": "Likhain",
+	"vectorx-view-edit": "Baguhin",
+	"vectorx-view-history": "Tingnan ang kasaysayan",
+	"vectorx-view-view": "Basahin",
+	"vectorx-view-viewsource": "Tingnan ang pinagmulan",
+	"vectorx-more-actions": "Higit pa"
+}

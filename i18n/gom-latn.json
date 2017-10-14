@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Isidore Dantas",
+			"The Discoverer"
+		]
+	},
+	"vectorx-action-addsection": "Vixoi zodd",
+	"vectorx-action-delete": "Kadd",
+	"vectorx-action-move": "Zago bodol",
+	"vectorx-action-protect": "Rakh",
+	"vectorx-view-create": "Roch",
+	"vectorx-view-edit": "Bodol",
+	"vectorx-view-history": "Itihas polloi",
+	"vectorx-view-view": "Vach",
+	"vectorx-view-viewsource": "Mull polloi",
+	"vectorx-more-actions": "Anik"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cgboeree",
+			"Katxis"
+		]
+	},
+	"vectorx-action-addsection": "Ajunta sujeto",
+	"vectorx-action-move": "Move",
+	"vectorx-view-create": "Crea",
+	"vectorx-view-edit": "Edita",
+	"vectorx-view-history": "Vide istoria",
+	"vectorx-view-view": "Leje",
+	"vectorx-more-actions": "Plu"
+}

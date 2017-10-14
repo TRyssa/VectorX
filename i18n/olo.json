@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Denö",
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"vectorx-action-addsection": "Ližiä aihe",
+	"vectorx-action-delete": "Ota iäre",
+	"vectorx-action-move": "Siirrä",
+	"vectorx-action-protect": "Suojua",
+	"vectorx-action-unprotect": "Vaihta suojavustu",
+	"vectorx-view-create": "Luaji",
+	"vectorx-view-edit": "Kohendele",
+	"vectorx-view-history": "Kačo histourii",
+	"vectorx-view-view": "Luve",
+	"vectorx-view-viewsource": "Kačo algukoodu",
+	"vectorx-more-actions": "Vie"
+}

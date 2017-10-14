@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"vectorx-skin-desc": "Version moderne de MonoBook con aspecto rejuvenescite e multe meliorationes de usabilitate.",
+	"vectorx.css": "/* Le CSS placiate hic afficera le usatores del apparentia VectorX */",
+	"vectorx.js": "/* Omne JavaScript hic se executara pro le usatores del apparentia VectorX */",
+	"vectorx-action-addsection": "Adder topico",
+	"vectorx-action-delete": "Deler",
+	"vectorx-action-move": "Renominar",
+	"vectorx-action-protect": "Proteger",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Cambiar protection",
+	"vectorx-view-create": "Crear",
+	"vectorx-view-edit": "Modificar",
+	"vectorx-view-history": "Vider historia",
+	"vectorx-view-view": "Leger",
+	"vectorx-view-viewsource": "Vider texto fonte",
+	"vectorx-more-actions": "Plus"
+}

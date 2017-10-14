@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Marine-Blue",
+			"Penn Station",
+			"Shirayuki",
+			"Whym",
+			"青子守歌",
+			"Takot"
+		]
+	},
+	"skinname-vectorx": "ベクター",
+	"vectorx-skin-desc": "新しい見た目でユーザビリティが改善された、モダンバージョンのMonobook。",
+	"vectorx.css": "/* ここに記述したCSSはベクター外装の利用者に影響します */",
+	"vectorx.js": "/* ここにあるすべてのJavaScriptは、ベクター外装を使用している利用者に対して読み込まれます */",
+	"vectorx-action-addsection": "話題追加",
+	"vectorx-action-delete": "削除",
+	"vectorx-action-move": "移動",
+	"vectorx-action-protect": "保護",
+	"vectorx-action-undelete": "復元",
+	"vectorx-action-unprotect": "保護再設定",
+	"vectorx-view-create": "作成",
+	"vectorx-view-edit": "編集",
+	"vectorx-view-history": "履歴表示",
+	"vectorx-view-view": "閲覧",
+	"vectorx-view-viewsource": "ソースを閲覧",
+	"vectorx-more-actions": "その他"
+}

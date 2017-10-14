@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bua333",
+			"Mucalexx"
+		]
+	},
+	"vectorx-action-addsection": "An Obschnitt dazua doa",
+	"vectorx-action-delete": "Leschn",
+	"vectorx-action-move": "Vaschiabm",
+	"vectorx-action-protect": "Schitzn",
+	"vectorx-action-undelete": "Wiederherstön",
+	"vectorx-action-unprotect": "freigeem",
+	"vectorx-view-create": "Aufbaun",
+	"vectorx-view-edit": "Werkln",
+	"vectorx-view-history": "Gschicht oschaugn",
+	"vectorx-view-view": "Lesn",
+	"vectorx-view-viewsource": "Quejtext ozoagn"
+}

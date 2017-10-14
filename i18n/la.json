@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"UV",
+			"Laurentianus"
+		]
+	},
+	"vectorx-action-addsection": "Partem novam addere",
+	"vectorx-action-delete": "Delere",
+	"vectorx-action-move": "Movere",
+	"vectorx-action-protect": "Protegere",
+	"vectorx-action-undelete": "Restituere",
+	"vectorx-action-unprotect": "Protectionem mutare",
+	"vectorx-view-create": "Creare",
+	"vectorx-view-edit": "Recensere",
+	"vectorx-view-history": "Historiam inspicere",
+	"vectorx-view-view": "Legere",
+	"vectorx-view-viewsource": "Fontem inspicere",
+	"vectorx-more-actions": "Plura"
+}

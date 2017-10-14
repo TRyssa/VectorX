@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kscanne",
+			"Kwekubo",
+			"Moydow",
+			"Tem"
+		]
+	},
+	"skinname-vectorx": "Veicteoir",
+	"vectorx-action-addsection": "Cuir topaic leis",
+	"vectorx-action-delete": "Scrios",
+	"vectorx-action-move": "Athainmnigh",
+	"vectorx-action-protect": "Glasáil",
+	"vectorx-action-undelete": "Díscrios",
+	"vectorx-action-unprotect": "Díghlasáil",
+	"vectorx-view-create": "Cruthaigh",
+	"vectorx-view-edit": "Athraigh an lch seo",
+	"vectorx-view-history": "Féach ar stair",
+	"vectorx-view-view": "Léigh",
+	"vectorx-view-viewsource": "Féach ar fhoinse",
+	"vectorx-more-actions": "Tuilleadh"
+}

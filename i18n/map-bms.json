@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA",
+			"Mbrt"
+		]
+	},
+	"vectorx-action-addsection": "Nambah topik",
+	"vectorx-action-delete": "Busek",
+	"vectorx-action-move": "Pindah",
+	"vectorx-action-protect": "Reksa",
+	"vectorx-action-undelete": "Batalna pambusakan",
+	"vectorx-action-unprotect": "Owahi pangreksan",
+	"vectorx-view-create": "Gawe",
+	"vectorx-view-edit": "Sunting",
+	"vectorx-view-history": "Sajarah kaca",
+	"vectorx-view-view": "Waca",
+	"vectorx-view-viewsource": "Deleng sumbere",
+	"vectorx-more-actions": "Liane"
+}

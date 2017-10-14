@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-vectorx": "Vector (dark) for X-Lexikon",
+	"vectorx-skin-desc": "Modern version of MonoBook with fresh look and many usability improvements",
+	"vectorx.css": "/* CSS placed here will affect users of the VectorX skin */",
+	"vectorx.js": "/* Any JavaScript here will be loaded for users using the VectorX skin */",
+	"vectorx-action-addsection": "Add topic",
+	"vectorx-action-delete": "Delete",
+	"vectorx-action-move": "Move",
+	"vectorx-action-protect": "Protect",
+	"vectorx-action-undelete": "Undelete",
+	"vectorx-action-unprotect": "Change protection",
+	"vectorx-view-create": "Create",
+	"vectorx-view-edit": "Edit",
+	"vectorx-view-history": "View history",
+	"vectorx-view-view": "Read",
+	"vectorx-view-viewsource": "View source",
+	"vectorx-more-actions": "More"
+}

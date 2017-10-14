@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm",
+			"Toliño",
+			"Vivaelcelta"
+		]
+	},
+	"vectorx-skin-desc": "Versión moderna da aparencia MonoBook, cun aspecto actualizado e moitas melloras na usabilidade",
+	"vectorx.css": "/* O CSS que se coloque aquí afectará a quen use a aparencia VectorX */",
+	"vectorx.js": "/* Calquera JavaScript que haxa aquí será cargado para os usuarios que usen a aparencia VectorX */",
+	"vectorx-action-addsection": "Nova sección",
+	"vectorx-action-delete": "Borrar",
+	"vectorx-action-move": "Mover",
+	"vectorx-action-protect": "Protexer",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Cambiar a protección",
+	"vectorx-view-create": "Crear",
+	"vectorx-view-edit": "Editar",
+	"vectorx-view-history": "Ver o historial",
+	"vectorx-view-view": "Ler",
+	"vectorx-view-viewsource": "Ver o código fonte",
+	"vectorx-more-actions": "Máis"
+}

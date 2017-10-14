@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvicola"
+		]
+	},
+	"vectorx.css": "/* CSS hiir beâjflusd nôr dii VectorX-schelfn. Wen'd ale uf ôômôôl beâjflusn wilsch, muâsch an MediaWiki:Common.css was ändârn. */",
+	"vectorx-action-addsection": "Ân najn abschnid ôôfangn",
+	"vectorx-action-delete": "Leschn",
+	"vectorx-action-move": "Umdaafn",
+	"vectorx-action-protect": "Schidsn",
+	"vectorx-action-undelete": "Leschn riggängich machn",
+	"vectorx-action-unprotect": "Schuds ufgeebn",
+	"vectorx-view-create": "Ôôleechn",
+	"vectorx-view-edit": "Bearbajdn",
+	"vectorx-view-history": "Wärsjoonsfolche",
+	"vectorx-view-view": "Leesn",
+	"vectorx-view-viewsource": "Gwäl-dhägsd ôôgugn"
+}

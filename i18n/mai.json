@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ggajendra",
+			"Umeshberma",
+			"Tulsi Bhagat",
+			"बिप्लब आनन्द"
+		]
+	},
+	"skinname-vectorx": "सदिश",
+	"vectorx-action-addsection": "विचार-बिन्दु जोडी",
+	"vectorx-action-delete": "मेटाबी",
+	"vectorx-action-move": "स्थानान्तरण करी",
+	"vectorx-action-protect": "रक्षण करू",
+	"vectorx-action-undelete": "आपस लाउ",
+	"vectorx-action-unprotect": "सुरक्षा बदलू",
+	"vectorx-view-create": "बनाबी",
+	"vectorx-view-edit": "सम्पादन करी",
+	"vectorx-view-history": "इतिहास देखी",
+	"vectorx-view-view": "पढी",
+	"vectorx-view-viewsource": "स्रोत देखी",
+	"vectorx-more-actions": "आर"
+}

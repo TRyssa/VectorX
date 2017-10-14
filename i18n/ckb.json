@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asoxor",
+			"Calak",
+			"Sarchia"
+		]
+	},
+	"skinname-vectorx": "ڤێکتۆر",
+	"vectorx-action-addsection": "بابەت دابنێ",
+	"vectorx-action-delete": "سڕینەوە",
+	"vectorx-action-move": "گواستنەوە",
+	"vectorx-action-protect": "پاراستن",
+	"vectorx-action-undelete": "سڕینەوە بگەڕێنەوە",
+	"vectorx-action-unprotect": "پاراستن بگۆڕە",
+	"vectorx-view-create": "دروستکردن",
+	"vectorx-view-edit": "دەستکاری",
+	"vectorx-view-history": "مێژوو",
+	"vectorx-view-view": "خوێندنەوە",
+	"vectorx-view-viewsource": "سەرچاوەکەی ببینە",
+	"vectorx-more-actions": "زیاتر"
+}

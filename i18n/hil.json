@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anjoeli9806",
+			"Redhotchili23"
+		]
+	},
+	"vectorx-action-addsection": "Magdugang sing topiko",
+	"vectorx-action-delete": "Panason",
+	"vectorx-action-move": "Saylohon",
+	"vectorx-action-protect": "Pangapinan",
+	"vectorx-action-undelete": "Dulaon ang pagpanas",
+	"vectorx-action-unprotect": "Ilisan ang pagpangapin",
+	"vectorx-view-create": "Himuon",
+	"vectorx-view-edit": "Liwaton",
+	"vectorx-view-history": "Lantawon ang nagkalatabo",
+	"vectorx-view-view": "Magbasa",
+	"vectorx-view-viewsource": "Lantawon ang ginhalinan",
+	"vectorx-more-actions": "Dugang Pa"
+}

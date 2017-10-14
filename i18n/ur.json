@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Istabani",
+			"Noor2020",
+			"Tahir mq",
+			"محبوب عالم",
+			"عثمان خان شاہ",
+			"عرفان ارشد",
+			"Obaid Raza",
+			"Muhammad Shuaib"
+		]
+	},
+	"skinname-vectorx": "ویکٹر",
+	"vectorx-skin-desc": "مونوبک کا جدید نسخہ (ورژن) مع شائستہ صورت اور کئی افادیت میں بہتریاں",
+	"vectorx-action-addsection": "نیا موضوع",
+	"vectorx-action-delete": "حذف کریں",
+	"vectorx-action-move": "منتقل کریں",
+	"vectorx-action-protect": "محفوظ کریں",
+	"vectorx-action-undelete": "بحال کریں",
+	"vectorx-action-unprotect": "حفاظت میں تبدیلی",
+	"vectorx-view-create": "تخلیق کریں",
+	"vectorx-view-edit": "ترمیم",
+	"vectorx-view-history": "تاریخچہ",
+	"vectorx-view-view": "مطالعہ",
+	"vectorx-view-viewsource": "مسودہ دیکھیے",
+	"vectorx-more-actions": "مزید"
+}

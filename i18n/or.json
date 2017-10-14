@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jnanaranjan Sahu",
+			"Psubhashish"
+		]
+	},
+	"vectorx-action-addsection": "ନୂଆ ଯୋଡ଼ନ୍ତୁ",
+	"vectorx-action-delete": "ଲିଭାଇବେ",
+	"vectorx-action-move": "ଘୁଞ୍ଚାଇବେ",
+	"vectorx-action-protect": "କିଳିବେ",
+	"vectorx-action-undelete": "ଲିଭାଇବେ ନାହିଁ",
+	"vectorx-action-unprotect": "କିଳିବେ ନାହିଁ",
+	"vectorx-view-create": "ତିଆରି କରନ୍ତୁ",
+	"vectorx-view-edit": "ସମ୍ପାଦନା (Edit)",
+	"vectorx-view-history": "ଇତିହାସ",
+	"vectorx-view-view": "ପଢ଼ନ୍ତୁ",
+	"vectorx-view-viewsource": "ସୋର୍ସ ଦେଖନ୍ତୁ",
+	"vectorx-more-actions": "ଅଧିକ"
+}

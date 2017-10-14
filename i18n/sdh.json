@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paraw2"
+		]
+	},
+	"vectorx-action-addsection": "بابەت تازە بدە سەری",
+	"vectorx-action-delete": "بسڕەوە",
+	"vectorx-action-move": "جیوەجی بکە",
+	"vectorx-action-protect": "بپیەرێزەێ",
+	"vectorx-view-create": "درسکردن",
+	"vectorx-view-edit": "وێراشتەێ بکە",
+	"vectorx-view-history": "دیرۆکەگەی بۊن",
+	"vectorx-view-view": "بخوەنە",
+	"vectorx-view-viewsource": "سەرچاوەگەێ بۊن",
+	"vectorx-more-actions": "فرەتر"
+}

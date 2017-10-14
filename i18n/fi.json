@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Nedergard",
+			"Nike",
+			"Pxos",
+			"SuperPete"
+		]
+	},
+	"vectorx-skin-desc": "Uudistettu versio MonoBookista raikkaalla ulkoasulla ja useilla käytettävyysparannuksilla",
+	"vectorx.css": "/* Tämä sivu sisältää VectorX-ulkoasua muuttavia tyylejä. */",
+	"vectorx.js": "/* Tämän sivun JavaScript-koodi liitetään VectorX-tyyliin */",
+	"vectorx-action-addsection": "Lisää aihe",
+	"vectorx-action-delete": "Poista",
+	"vectorx-action-move": "Siirrä",
+	"vectorx-action-protect": "Suojaa",
+	"vectorx-action-undelete": "Palauta",
+	"vectorx-action-unprotect": "Muuta suojausta",
+	"vectorx-view-create": "Luo",
+	"vectorx-view-edit": "Muokkaa",
+	"vectorx-view-history": "Näytä historia",
+	"vectorx-view-view": "Lue",
+	"vectorx-view-viewsource": "Näytä lähdekoodi",
+	"vectorx-more-actions": "Muut"
+}

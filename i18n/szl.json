@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Britscher",
+			"Gaj777",
+			"Przemub",
+			"Krol111"
+		]
+	},
+	"vectorx-action-addsection": "Nowo tajla",
+	"vectorx-action-delete": "Wyćepej",
+	"vectorx-action-move": "Przećep",
+	"vectorx-action-protect": "Zawrzij",
+	"vectorx-action-undelete": "Wćep",
+	"vectorx-action-unprotect": "Uodymkńij",
+	"vectorx-view-create": "Stwůrz",
+	"vectorx-view-edit": "Sprowjej",
+	"vectorx-view-history": "Uobocz gyszichta",
+	"vectorx-view-view": "Czytej",
+	"vectorx-view-viewsource": "Zdrzůdłowy tekst",
+	"vectorx-more-actions": "Wjyncyj"
+}

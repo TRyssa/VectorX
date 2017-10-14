@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Omnipaedista",
+			"Sinopeus",
+			"ZaDiak"
+		]
+	},
+	"vectorx-action-delete": "Σβήσον",
+	"vectorx-action-move": "Ετεροχλάεμαν",
+	"vectorx-action-protect": "Ασπάλιγμαν",
+	"vectorx-action-undelete": "Κλώσιμον",
+	"vectorx-action-unprotect": "Άνοιγμαν",
+	"vectorx-view-create": "Ποίσον",
+	"vectorx-view-edit": "Άλλαξον",
+	"vectorx-view-history": "Τερέστεν ιστορίαν",
+	"vectorx-view-view": "Δεάβασον",
+	"vectorx-view-viewsource": "Τερέστεν κωδικόν"
+}

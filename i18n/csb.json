@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba",
+			"Kuvaly",
+			"Kirsan"
+		]
+	},
+	"vectorx-action-addsection": "Dodôj témã",
+	"vectorx-action-delete": "Rëmôj",
+	"vectorx-action-move": "Przeniesë",
+	"vectorx-action-protect": "Zazychrëjë",
+	"vectorx-action-undelete": "Doprowadzë nazôd",
+	"vectorx-action-unprotect": "Òdzychrëjë",
+	"vectorx-view-create": "Ùsadzë",
+	"vectorx-view-edit": "Edicëjô",
+	"vectorx-view-history": "Historëjô lopka",
+	"vectorx-view-view": "Czëtôj",
+	"vectorx-view-viewsource": "Zdrojowi tekst",
+	"vectorx-more-actions": "Wiãcy"
+}

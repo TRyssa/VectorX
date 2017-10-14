@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"ITurtle",
+			"Kwj2772",
+			"아라",
+			"Revi"
+		]
+	},
+	"skinname-vectorx": "벡터",
+	"vectorx-skin-desc": "신선해 보이고 많은 사용성이 개선된 모노북의 현대 버전",
+	"vectorx.css": "/* 이 CSS 설정은 벡터 스킨을 사용하는 사용자에게 적용됩니다 */",
+	"vectorx.js": "/* 이 자바스크립트 설정은 벡터 스킨을 사용하는 사용자에게 적용됩니다 */",
+	"vectorx-action-addsection": "새 주제",
+	"vectorx-action-delete": "삭제",
+	"vectorx-action-move": "이동",
+	"vectorx-action-protect": "보호",
+	"vectorx-action-undelete": "삭제 취소",
+	"vectorx-action-unprotect": "보호 설정 바꾸기",
+	"vectorx-view-create": "만들기",
+	"vectorx-view-edit": "편집",
+	"vectorx-view-history": "역사 보기",
+	"vectorx-view-view": "읽기",
+	"vectorx-view-viewsource": "원본 보기",
+	"vectorx-more-actions": "더 보기"
+}

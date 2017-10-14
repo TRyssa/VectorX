@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinneeb",
+			"MongolWiki",
+			"Wisdom",
+			"Sembuk"
+		]
+	},
+	"vectorx-action-addsection": "Сэдэв нэмэх",
+	"vectorx-action-delete": "Устгах",
+	"vectorx-action-move": "Зөөх",
+	"vectorx-action-protect": "Хамгаалах",
+	"vectorx-action-undelete": "Үл устгах",
+	"vectorx-action-unprotect": "Хамгаалалтаа солих",
+	"vectorx-view-create": "Үүсгэх",
+	"vectorx-view-edit": "Засварлах",
+	"vectorx-view-history": "Түүх",
+	"vectorx-view-view": "Унших",
+	"vectorx-view-viewsource": "Кодыг харах",
+	"vectorx-more-actions": "Дэлгэрэнгүй"
+}

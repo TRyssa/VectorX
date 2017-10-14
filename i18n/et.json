@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ker",
+			"Pikne",
+			"WikedKentaur"
+		]
+	},
+	"skinname-vectorx": "Vektor",
+	"vectorx-skin-desc": "MonoBooki uuem versioon värskema väljanägemise ja mitme kasutajasõbralikuma täiendusega",
+	"vectorx.css": "/* Siin asuv kaskaadilaadistik puudutab kõiki Vektori-kujunduse kasutajaid. */",
+	"vectorx.js": "/* Siin asuv JavaScript laaditakse kõigi Vektori-kujunduse kasutajate jaoks. */",
+	"vectorx-action-addsection": "Lisa teema",
+	"vectorx-action-delete": "Kustuta",
+	"vectorx-action-move": "Teisalda",
+	"vectorx-action-protect": "Kaitse",
+	"vectorx-action-undelete": "Taasta",
+	"vectorx-action-unprotect": "Muuda kaitset",
+	"vectorx-view-create": "Loo",
+	"vectorx-view-edit": "Muuda",
+	"vectorx-view-history": "Näita ajalugu",
+	"vectorx-view-view": "Vaata",
+	"vectorx-view-viewsource": "Vaata lähteteksti",
+	"vectorx-more-actions": "Veel"
+}

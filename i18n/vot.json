@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paivud"
+		]
+	},
+	"vectorx-action-addsection": "Vassõn teema",
+	"vectorx-action-delete": "Pühi",
+	"vectorx-action-move": "Liikut",
+	"vectorx-action-protect": "Varjaa",
+	"vectorx-view-create": "Loo cülci",
+	"vectorx-view-edit": "Muuttaa",
+	"vectorx-view-history": "Istori",
+	"vectorx-view-view": "Lukõa",
+	"vectorx-view-viewsource": "Lähtekoodi"
+}

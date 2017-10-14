@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Aurora",
+			"Pizza1016"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versi MonoBook yang moden dengan rupa yang segar dan banyak pembaikan kepada kegunaan.",
+	"vectorx.css": "/* CSS yang terletak di sini akan mempengaruhi pengguna kulit VectorX */",
+	"vectorx.js": "/ * Sebarang JavaScript di sini akan dimuatkan untuk pengguna-pengguna yang menggunakan kulit VectorX * /",
+	"vectorx-action-addsection": "Buka topik",
+	"vectorx-action-delete": "Hapus",
+	"vectorx-action-move": "Pindah",
+	"vectorx-action-protect": "Lindung",
+	"vectorx-action-undelete": "Nyahhapus",
+	"vectorx-action-unprotect": "Ubah perlindungan",
+	"vectorx-view-create": "Cipta",
+	"vectorx-view-edit": "Sunting",
+	"vectorx-view-history": "Lihat sejarah",
+	"vectorx-view-view": "Baca",
+	"vectorx-view-viewsource": "Lihat sumber",
+	"vectorx-more-actions": "Lain"
+}

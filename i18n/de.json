@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"The Evil IP address",
+			"Umherirrender"
+		]
+	},
+	"skinname-vectorx": "Vector (dunkel) fürs X-Lexikon",
+	"vectorx-skin-desc": "Stellt eine modernisierte Benutzeroberfläche bereit",
+	"vectorx.css": "/* Das folgende CSS wird für Benutzer der VectorX-Benutzeroberfläche geladen. */",
+	"vectorx.js": "/* Das folgende JavaScript wird für Benutzer der VectorX-Benutzeroberfläche geladen. */",
+	"vectorx-action-addsection": "Abschnitt hinzufügen",
+	"vectorx-action-delete": "Löschen",
+	"vectorx-action-move": "Verschieben",
+	"vectorx-action-protect": "Schützen",
+	"vectorx-action-undelete": "Wiederherstellen",
+	"vectorx-action-unprotect": "Seitenschutz ändern",
+	"vectorx-view-create": "Erstellen",
+	"vectorx-view-edit": "Bearbeiten",
+	"vectorx-view-history": "Versionsgeschichte",
+	"vectorx-view-view": "Lesen",
+	"vectorx-view-viewsource": "Quelltext anzeigen",
+	"vectorx-more-actions": "Mehr"
+}

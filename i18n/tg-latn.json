@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent"
+		]
+	},
+	"vectorx-action-addsection": "Ilovai unvon",
+	"vectorx-action-delete": "Hazf",
+	"vectorx-action-move": "Kūconidan",
+	"vectorx-action-protect": "Muhofizat",
+	"vectorx-action-undelete": "Ehjo",
+	"vectorx-action-unprotect": "Ba dar ovardan az muhofizat",
+	"vectorx-view-create": "Eçod",
+	"vectorx-view-edit": "Viroiş",
+	"vectorx-view-history": "Namoişi ta'rix",
+	"vectorx-view-view": "Xondan",
+	"vectorx-view-viewsource": "Namoişi manba'"
+}

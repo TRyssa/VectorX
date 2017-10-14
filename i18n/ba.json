@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Assele",
+			"Haqmar",
+			"Рустам Нурыев",
+			"Sagan"
+		]
+	},
+	"skinname-vectorx": "Векторлы",
+	"vectorx-skin-desc": "Хәҙерге заман  «Векторлы» күренеше, биҙәлеш яүыртылған һәм яңы мөмкинлектәр файҙаланылған",
+	"vectorx-action-addsection": "Тема өҫтәргә",
+	"vectorx-action-delete": "Юйырға",
+	"vectorx-action-move": "Исемен үҙгәртергә",
+	"vectorx-action-protect": "Һаҡларға",
+	"vectorx-action-undelete": "Тергеҙергә",
+	"vectorx-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"vectorx-view-create": "Яһау",
+	"vectorx-view-edit": "Үҙгәртергә",
+	"vectorx-view-history": "Тарихты ҡарау",
+	"vectorx-view-view": "Уҡыу",
+	"vectorx-view-viewsource": "Сығанаҡты ҡарарға",
+	"vectorx-more-actions": "Тағы"
+}

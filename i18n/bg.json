@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borislav",
+			"DCLXVI",
+			"Spiritia",
+			"StanProg"
+		]
+	},
+	"vectorx-skin-desc": "Модерна версия на MonoBook с обновен дизайн и много подобрения на ползваемостта",
+	"vectorx-action-addsection": "Добавяне на тема",
+	"vectorx-action-delete": "Изтриване",
+	"vectorx-action-move": "Преместване",
+	"vectorx-action-protect": "Защита",
+	"vectorx-action-undelete": "Възстановяване",
+	"vectorx-action-unprotect": "Промяна на защитата",
+	"vectorx-view-create": "Създаване",
+	"vectorx-view-edit": "Редактиране",
+	"vectorx-view-history": "История",
+	"vectorx-view-view": "Преглед",
+	"vectorx-view-viewsource": "Преглед на кода",
+	"vectorx-more-actions": "Още"
+}

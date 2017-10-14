@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dark Eagle"
+		]
+	},
+	"vectorx-action-addsection": "Dalikt padaļu",
+	"vectorx-action-delete": "Iztreit",
+	"vectorx-action-move": "Puorceļt",
+	"vectorx-action-protect": "Apsorguot",
+	"vectorx-action-unprotect": "Puormeit apsardzeibu",
+	"vectorx-view-edit": "Pataiseit",
+	"vectorx-view-history": "Viesture",
+	"vectorx-view-view": "Vērtīs"
+}

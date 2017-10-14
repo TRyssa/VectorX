@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Filipinayzd"
+		]
+	},
+	"vectorx-action-delete": "Puraon",
+	"vectorx-action-move": "Ilipat",
+	"vectorx-action-protect": "Protektaran",
+	"vectorx-action-undelete": "Ibalik",
+	"vectorx-action-unprotect": "Ribayan a proteksyon",
+	"vectorx-view-create": "Gumibo",
+	"vectorx-view-edit": "Balyowan",
+	"vectorx-view-history": "Baydon a kasaysayan",
+	"vectorx-view-view": "Basahon",
+	"vectorx-view-viewsource": "Baydon a ginikanan",
+	"vectorx-more-actions": "Dakul pa"
+}

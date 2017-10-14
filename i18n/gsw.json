@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"vectorx-action-addsection": "Abschnitt zuefiege",
+	"vectorx-action-delete": "Lesche",
+	"vectorx-action-move": "Verschiebe",
+	"vectorx-action-protect": "Schitze",
+	"vectorx-action-undelete": "Widerhärstelle",
+	"vectorx-action-unprotect": "Syteschutz ändere",
+	"vectorx-view-create": "Aalege",
+	"vectorx-view-edit": "Bearbeite",
+	"vectorx-view-history": "Versionsgschicht",
+	"vectorx-view-view": "Läse",
+	"vectorx-view-viewsource": "Quälltext aaluege",
+	"vectorx-more-actions": "Meh"
+}

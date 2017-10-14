@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iketsi",
+			"Qaqqalik"
+		]
+	},
+	"vectorx-action-addsection": "Imm. nutaaq",
+	"vectorx-action-move": "Nuuguk",
+	"vectorx-view-create": "Pilersiguk",
+	"vectorx-view-edit": "Aaqqissoruk",
+	"vectorx-view-history": "Oqalutt.",
+	"vectorx-view-view": "Takuuk",
+	"vectorx-view-viewsource": "Toqqavia takuuk"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minggantu",
+			"Obonggi",
+			"Араси"
+		]
+	},
+	"vectorx-action-delete": "Dabgire",
+	"vectorx-action-move": "Guribure",
+	"vectorx-action-protect": "Karmara",
+	"vectorx-view-create": "Ilibure",
+	"vectorx-view-edit": "ᠪᠠᠨᠵᡳᠪᡠᠮᡝ ᠠᡵᠠᡵᠠ",
+	"vectorx-view-history": "ᡝᡵᡝ ᡧᡠ ᡶᡳᠶᡝᠯᡝᠨ ᡳ ᠰᡠᡩᡠᡵᡳ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ",
+	"vectorx-view-view": "ᡥᡡᠯᠠᡵᠠ",
+	"vectorx-view-viewsource": "da šu wen be baicara",
+	"vectorx-more-actions": "ᡝᠯᡝ ᠯᠪᡩᡠ ᡨᡠᠸᠠᠨᠠᡴᡳ"
+}

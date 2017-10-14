@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lezgia",
+			"Migraghvi",
+			"Namik",
+			"Soul Train"
+		]
+	},
+	"vectorx-action-addsection": "Тема алава авун",
+	"vectorx-action-delete": "Алудун",
+	"vectorx-action-move": "ТӀвар эхцигун",
+	"vectorx-action-protect": "Хуьн",
+	"vectorx-action-undelete": "ТуькӀуьр хъувун",
+	"vectorx-action-unprotect": "Хуьн дегишарун",
+	"vectorx-view-create": "ТуькӀуьрун",
+	"vectorx-view-edit": "Дуьзарин",
+	"vectorx-view-history": "Тарихдиз килигун",
+	"vectorx-view-view": "КӀелун",
+	"vectorx-view-viewsource": "Чешме къалурун",
+	"vectorx-more-actions": "Мадни"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"vectorx-action-addsection": "Voeg kopje toe",
+	"vectorx-action-delete": "Wissen",
+	"vectorx-action-move": "Verschuuf",
+	"vectorx-action-protect": "Bescherm",
+	"vectorx-action-undelete": "Plaets truhhe",
+	"vectorx-action-unprotect": "Beveiligienge anpass'n",
+	"vectorx-view-create": "Anmaeken",
+	"vectorx-view-edit": "Bewerk",
+	"vectorx-view-history": "Geschiedenisse bekiek'n",
+	"vectorx-view-view": "Lezen",
+	"vectorx-view-viewsource": "Brontekst bekieken"
+}

@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Giro720",
+			"Hamilton Abreu",
+			"Malafaya",
+			"Vitorvicentevalente",
+			"Waldir"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "Versão moderna do MonoBook com um visual fresco e várias melhorias de usabilidade",
+	"vectorx.css": "/* Código CSS colocado aqui afectará os utilizadores do tema VectorX */",
+	"vectorx.js": "/* Código Javascript colocado aqui será carregado para utilizadores do tema VectorX */",
+	"vectorx-action-addsection": "Adicionar&nbsp;tópico",
+	"vectorx-action-delete": "Eliminar",
+	"vectorx-action-move": "Mover",
+	"vectorx-action-protect": "Proteger",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Alterar protecção",
+	"vectorx-view-create": "Criar",
+	"vectorx-view-edit": "Editar",
+	"vectorx-view-history": "Ver histórico",
+	"vectorx-view-view": "Ler",
+	"vectorx-view-viewsource": "Ver fonte",
+	"vectorx-more-actions": "Mais"
+}

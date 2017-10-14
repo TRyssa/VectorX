@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alunardon90",
+			"Candalua",
+			"Frigotoni",
+			"GatoSelvadego",
+			"Vajotwo"
+		]
+	},
+	"vectorx-action-addsection": "Xonta discusion",
+	"vectorx-action-delete": "Scanseƚa",
+	"vectorx-action-move": "Sposta",
+	"vectorx-action-protect": "Protegi",
+	"vectorx-action-undelete": "Recupera",
+	"vectorx-action-unprotect": "Canbia ƚa protesion",
+	"vectorx-view-create": "Crea",
+	"vectorx-view-edit": "Canbia",
+	"vectorx-view-history": "Varda ƚa stòria",
+	"vectorx-view-view": "Lexi",
+	"vectorx-view-viewsource": "Varda el testo",
+	"vectorx-more-actions": "Piassè"
+}

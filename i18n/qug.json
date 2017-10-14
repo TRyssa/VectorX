@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sylvain2803"
+		]
+	},
+	"vectorx-action-addsection": "Shuk mushuk rimanakuyta kallarina",
+	"vectorx-action-delete": "Pichana",
+	"vectorx-action-move": "Apakuna",
+	"vectorx-action-protect": "Harkana",
+	"vectorx-action-undelete": "Kutin wacharichina",
+	"vectorx-action-unprotect": "Harkayta shukchina",
+	"vectorx-view-create": "Kamarina",
+	"vectorx-view-edit": "Killkana",
+	"vectorx-view-history": "Wiñay kawsayta rikuna",
+	"vectorx-view-view": "Killkakatina",
+	"vectorx-view-viewsource": "Pukyu killkata rikuna"
+}

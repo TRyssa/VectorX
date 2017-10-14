@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juanpabl",
+			"Carlos Cristia"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx.css": "/* Os estilos CSS colocaus aquí s'aplicarán ta totz os usuarios que faigan servir l'apariencia VectorX */",
+	"vectorx.js": "/* Qualsiquier codigo Javascript escrito aquí se cargará ta totz os usuarios que usen a piel VectorX */",
+	"vectorx-action-addsection": "Adhibir nueva sección",
+	"vectorx-action-delete": "Borrar",
+	"vectorx-action-move": "Tresladar",
+	"vectorx-action-protect": "Protecher",
+	"vectorx-action-undelete": "Restaurar",
+	"vectorx-action-unprotect": "Cambiar protección",
+	"vectorx-view-create": "Creyar",
+	"vectorx-view-edit": "Editar",
+	"vectorx-view-history": "Amostrar l'historial",
+	"vectorx-view-view": "Leyer",
+	"vectorx-view-viewsource": "Veyer o codigo fuent",
+	"vectorx-more-actions": "Mas"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"vectorx-action-addsection": "داسون اضاف بكيد",
+	"vectorx-action-delete": "پاکسا کردن",
+	"vectorx-action-move": "جاوه جا بوئيت",
+	"vectorx-action-protect": "پر و پیم بكيد",
+	"vectorx-action-undelete": "حذف نبيئني",
+	"vectorx-action-unprotect": "حمايت آلشت بكيد",
+	"vectorx-view-create": "راس كردن",
+	"vectorx-view-edit": "ڤیرایئشت",
+	"vectorx-view-history": "ديئن ڤیرگار",
+	"vectorx-view-view": "حنن",
+	"vectorx-view-viewsource": "سرچشمه نه بوينيت",
+	"vectorx-more-actions": "بیشتر"
+}

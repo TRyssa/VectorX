@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ktchankt",
+			"Waihorace",
+			"Yueman"
+		]
+	},
+	"skinname-vectorx": "VectorX",
+	"vectorx-skin-desc": "MonoBook嘅摩登版，有新嘅樣，又有好多功能改進",
+	"vectorx.css": "/* 響呢度放 CSS 碼去改用戶用嘅域達畫面 */",
+	"vectorx.js": "/* 響每一次個頁面載入時，用域達畫面嘅用戶都會載入呢度任何嘅JavaScript */",
+	"vectorx-action-addsection": "加主題",
+	"vectorx-action-delete": "剷走",
+	"vectorx-action-move": "搬",
+	"vectorx-action-protect": "保護",
+	"vectorx-action-undelete": "取消剷走",
+	"vectorx-action-unprotect": "改保護",
+	"vectorx-view-create": "開",
+	"vectorx-view-edit": "改",
+	"vectorx-view-history": "睇吓歷史",
+	"vectorx-view-view": "閱",
+	"vectorx-view-viewsource": "睇吓原始碼",
+	"vectorx-more-actions": "更多"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Katimawan2005",
+			"Val2397"
+		]
+	},
+	"vectorx-action-addsection": "Dagdagan ing pisasabian",
+	"vectorx-action-delete": "Buran",
+	"vectorx-action-move": "Iyalis",
+	"vectorx-action-protect": "Protectan/kambilan",
+	"vectorx-action-undelete": "Isubli/iurung ya pangabura",
+	"vectorx-action-unprotect": "Idayu ya panga-protecta",
+	"vectorx-view-create": "Maglalang",
+	"vectorx-view-edit": "Alilan",
+	"vectorx-view-history": "Lawen ya ing amlat",
+	"vectorx-view-view": "Basan",
+	"vectorx-view-viewsource": "Lawen ya ing pikuanan"
+}

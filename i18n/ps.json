@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"skinname-vectorx": "وېکټور",
+	"vectorx.css": "/* د CSS هره بڼه چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"vectorx.js": "/* د جاوا هر يو سکرېپټ چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"vectorx-action-addsection": "سرليک ورگډول",
+	"vectorx-action-delete": "ړنگول",
+	"vectorx-action-move": "لېږدول",
+	"vectorx-action-protect": "ژغورل",
+	"vectorx-action-undelete": "ناړنگول",
+	"vectorx-action-unprotect": "ژغورنه بدلول",
+	"vectorx-view-create": "جوړول",
+	"vectorx-view-edit": "سمول",
+	"vectorx-view-history": "پېښليک کتل",
+	"vectorx-view-view": "لوستل",
+	"vectorx-view-viewsource": "سرچينه کتل",
+	"vectorx-more-actions": "نور"
+}

@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asmen",
+			"Calak",
+			"Erdemaslancan",
+			"Mirzali",
+			"Gorizon",
+			"Kumkumuk",
+			"Gırd",
+			"Velg",
+			"1917 Ekim Devrimi",
+			"Dılmıc",
+			"Gambollar"
+		]
+	},
+	"skinname-vectorx": "Vektor",
+	"vectorx-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
+	"vectorx-action-addsection": "Mewzu vıraze",
+	"vectorx-action-delete": "Bestern",
+	"vectorx-action-move": "Bıkırışe",
+	"vectorx-action-protect": "Bısıtarn",
+	"vectorx-action-undelete": "Peyser biya",
+	"vectorx-action-unprotect": "Sıtarnayışi bıvurne",
+	"vectorx-view-create": "Vıraze",
+	"vectorx-view-edit": "Bıvırnê",
+	"vectorx-view-history": "Verênan bıvênê",
+	"vectorx-view-view": "Bıwanê",
+	"vectorx-view-viewsource": "Rêçi bıvin",
+	"vectorx-more-actions": "Tayêna"
+}
